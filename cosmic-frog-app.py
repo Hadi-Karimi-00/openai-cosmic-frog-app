@@ -52,7 +52,6 @@ aa = api.wksp_files(user_workspace_selection, ATLAS_directory_path_selection)
 #print(connection_string)
 constr = dl.get_connection_string(User_Name,API_Key,DB_Name)
 
-conn_str = "postgresql+psycopg2://7c9482f2-4d3f-4e60-8595-fa7d85139d3c_1bb463251b10:<yPP9-LbReY5sTL<@optilogic.postgres.database.azure.com:6432/7c9482f2-4d3f-4e60-8595-fa7d85139d3c-029e283e954d?sslmode=require&fallback_application_name=optilogic_postgresql"
 # SQL alchemy engine
 engine = sal.create_engine(constr, pool_timeout=300, max_overflow=-1, pool_size=100, pool_pre_ping=True, pool_recycle=3600, echo=True)
 

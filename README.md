@@ -6,13 +6,13 @@ CF model implementation:
 1. Initiate and download [empty] model (.frog data model) <br>
     a. Create a folder in Atlas under My Files for your model. <br>
     b. Inside the above folder, create a folder named "input_modeler". Contains the tables where model data will resides. <br>
-    c. In order to create empty tables for input_modeler: <br>
-            - Go to CF or Lightning Editor, click right on the model forlder above and follow [Create Cosmic Frog Model]. 
+    c. In order to create empty tables for input_modeler:
+            - Go to CF or Lightning Editor, click right on the model forlder above and follow [Create Cosmic Frog Model]. <br>
             - Options to get the empty tables for the .frog model: <br>
                 i. Open the .frog model in CF, select the required tables (use Ctrl for multiple selection) and Export CSV from File tab. <br>
                 ii. Go to SDK folder in Atlas >> 4_Cosmic Frog Data Model and Templates >> Cosmic Frog Blank Tables >> Inputs/Outputs. <br>
                 Download CSV files either manually from Atlas or via Python using function `download_files_in_directory()` <br>
-                iii. Get the connection string for the model in CF (right click on .frog). Use pioneer API download template [1^]. <br>
+                iii. Get the connection string for the model in CF (right click on .frog). Use pioneer API download template [^1]. <br>
 3. Update data (according to Anura data scheme) <br>
 4. Upload [new] data model <br>
 5. Execute the model run <br>

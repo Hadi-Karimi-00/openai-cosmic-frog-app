@@ -6,8 +6,7 @@ CF model implementation:
 1. Initiate and download [empty] model (.frog data model) <br>
     a. Create a folder in Atlas under My Files for your model. <br>
     b. Inside the above folder, create a folder named "input_modeler". Contains the tables where model data will resides. <br>
-    c. In order to create empty tables for input_modeler:
-   
+    c. In order to create empty tables for input_modeler:  
             - Go to CF or Lightning Editor, click right on the model forlder above and follow [Create Cosmic Frog Model]. <br>
             - Options to get the empty tables for the .frog model: <br>
                 i. Open the .frog model in CF, select the required tables (use Ctrl for multiple selection) and Export CSV from File tab. <br>

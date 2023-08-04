@@ -1,0 +1,1 @@
+id,scenarioname,facilityname,facilitytype,fixedcost,totaloutboundflowcost,demandserved,customersserved,averagecustomerdistance,furthestcustomerdistance,distanceuom,latitude,longitude,city,region,postalcode,country,facilitycapacity,facilityutilization,totalinboundflowcost,facilityriskscore,concentrationrisk,utilizationrisk,geographicrisk,userdefinedrisk

@@ -1,0 +1,441 @@
+[2023-08-04T15:53:22.045Z]	----export params----
+[2023-08-04T15:53:22.047Z]	source database name: my_DB_Via_API
+[2023-08-04T15:53:22.048Z]	source schema: anura_2_6
+[2023-08-04T15:53:22.050Z]	source group: 
+[2023-08-04T15:53:22.051Z]	source list: ["advancedqueueingdetails","analytics","billsofmaterials","businesscalendars","businesshours","changeovertimes","customerdemand","customerfulfillmentpolicies","customerfulfillmentpoliciesmultitimeperiod","customerorderprofiles","customerorders","customerriskconfigurations","customers","customersmultitimeperiod","customertransitconstraints","customsimulationscripts","facilities","facilitiesmultitimeperiod","facilitycountconstraints","facilitydemand","facilityriskconfigurations","flowconstraints","flowcountconstraints","geographicriskconfigurations","greenfieldservicebands","greenfieldsettings","groups","histograms","inputfactors","inventoryconstraints","inventorycountconstraints","inventorypolicies","inventorypoliciesmultitimeperiod","lookups","maps","modelinfo","modelrunoptions","modelsettings","networkriskconfigurations","optimizationbillsofmaterialsummary","optimizationconstraintsummary","optimizationcosttoserveparentinformationreport","optimizationcosttoservesummary","optimizationcustomerriskmetrics","optimizationcustomersummary","optimizationdemandsummary","optimizationfacilitycosttoservesummary","optimizationfacilityriskmetrics","optimizationfacilitysummary","optimizationflowsummary","optimizationgeographicriskmetrics","optimizationgreenfieldcustomerriskmetrics","optimizationgreenfieldcustomersummary","optimizationgreenfieldfacilityriskmetrics","optimizationgreenfieldfacilitysummary","optimizationgreenfieldflowsummary","optimizationgreenfieldgeographicriskmetrics","optimizationgreenfieldnetworkriskmetrics","optimizationgreenfieldnetworksummary","optimizationgreenfieldriskmetricssummary","optimizationgreenfieldservicebandsummary","optimizationgreenfieldsupplierriskmetrics","optimizationgreenfieldsuppliersummary","optimizationinventorysummary","optimizationnetworkriskmetrics","optimizationnetworksummary","optimizationprocesssummary","optimizationproductionsummary","optimizationproductriskmetrics","optimizationriskmetricssummary","optimizationsequentialobjectivesummary","optimizationshipmentsummary","optimizationsupplierriskmetrics","optimizationsuppliersummary","optimizationsupplysummary","optimizationuserdefinedcostsummary","optimizationuserdefinedvariablesummary","optimizationutilizationriskmetrics","optimizationvalidationerrorreport","optimizationwarehousingsummary","optimizationworkcentersummary","orderedproductsubstitution","orderfulfillmentpolicies","orderprofileproductaffinity","orderprofileproductselection","organizations","outputfactors","periods","processes","processesmultitimeperiod","procurementorderprofiles","procurementorders","procurementpolicies","procurementpoliciesmultitimeperiod","productionconstraints","productioncountconstraints","productionorderprofiles","productionorders","productionpolicies","productionpoliciesmultitimeperiod","products","productsmultitimeperiod","productunitsofmeasure","replenishmentorderprofiles","replenishmentorders","replenishmentpolicies","replenishmentpoliciesmultitimeperiod","riskbanddefinitions","riskratingconfigurations","risksummaryconfigurations","scenarioitemassignments","scenarioitems","scenarios","sequentialobjectives","shipments","simulationcustomerproductservicesummary","simulationcustomerproductservicesummaryreplicationdetail","simulationcustomerproductsummary","simulationcustomerproductsummaryreplicationdetail","simulationcustomerriskmetrics","simulationcustomerriskmetricsreplicationdetail","simulationcustomerservicesummary","simulationcustomerservicesummaryreplicationdetail","simulationcustomersummary","simulationcustomersummaryreplicationdetail","simulationevolutionaryalgorithminputfactorreport","simulationevolutionaryalgorithmoutputfactorreport","simulationevolutionaryalgorithmsummary","simulationfacilityproductservicesummary","simulationfacilityproductservicesummaryreplicationdetail","simulationfacilityproductsummary","simulationfacilityproductsummaryreplicationdetail","simulationfacilityriskmetrics","simulationfacilityriskmetricsreplicationdetail","simulationfacilityservicesummary","simulationfacilityservicesummaryreplicationdetail","simulationfacilitysummary","simulationfacilitysummaryreplicationdetail","simulationflowsummary","simulationflowsummaryreplicationdetail","simulationgeographicriskmetrics","simulationgeographicriskmetricsreplicationdetail","simulationinventoryonhandreport","simulationlanemodequeuedepthreport","simulationlanemodequeuesummary","simulationlanemodequeuesummaryreplicationdetail","simulationlanequeuedepthreport","simulationlanequeuesummary","simulationlanequeuesummaryreplicationdetail","simulationlanesummary","simulationlanesummaryreplicationdetail","simulationnetworkriskmetrics","simulationnetworkriskmetricsreplicationdetail","simulationnetworkservicesummary","simulationnetworkservicesummaryreplicationdetail","simulationnetworksummary","simulationnetworksummaryreplicationdetail","simulationorderfulfillmentqueuedepthreport","simulationorderfulfillmentqueuesummary","simulationorderfulfillmentqueuesummaryreplicationdetail","simulationorderreport","simulationprocessreport","simulationprocesssummary","simulationprocesssummaryreplicationdetail","simulationproductionreport","simulationproductriskmetrics","simulationproductriskmetricsreplicationdetail","simulationriskmetricssummary","simulationriskmetricssummaryreplicationdetail","simulationshipmentreport","simulationsupplierproductsummary","simulationsupplierproductsummaryreplicationdetail","simulationsupplierriskmetrics","simulationsupplierriskmetricsreplicationdetail","simulationsuppliersummary","simulationsuppliersummaryreplicationdetail","simulationvalidationerrorreport","simulationworkcenterqueuedepthreport","simulationworkcenterqueuesummary","simulationworkcenterqueuesummaryreplicationdetail","simulationworkcentersummary","simulationworkcentersummaryreplicationdetail","stepcosts","suppliercapabilities","suppliercapabilitiesmultitimeperiod","supplierriskconfigurations","suppliers","suppliersmultitimeperiod","tablefilters","transportationassets","transportationassetsmultitimeperiod","transportationlanemodequeuedetails","transportationlanequeuedetails","transportationmodes","transportationmodesmultitimeperiod","transportationpolicies","transportationpoliciesmultitimeperiod","transportationrates","unitsofmeasure","userdefinedconstraints","userdefinedcosts","userdefinedforecasts","userdefinedforecastsdata","userdefinedvariables","utilizationriskconfigurations","warehousingpolicies","warehousingpoliciesmultitimeperiod","workcentercountconstraints","workcenterqueuedetails","workcenters","workcentersmultitimeperiod","workresources","workresourcesmultitimeperiod"]
+[2023-08-04T15:53:22.053Z]	source query:
+
+[2023-08-04T15:53:22.054Z]	----begin export----
+[2023-08-04T15:53:23.242Z]	export table anura_2_6.advancedqueueingdetails To anura_2_6.advancedqueueingdetails.csv
+   anura_2_6.advancedqueueingdetails: 0 rows exported
+[2023-08-04T15:53:23.427Z]	export table anura_2_6.analytics To anura_2_6.analytics.csv
+   anura_2_6.analytics: 11 rows exported
+[2023-08-04T15:53:23.625Z]	export table anura_2_6.billsofmaterials To anura_2_6.billsofmaterials.csv
+   anura_2_6.billsofmaterials: 0 rows exported
+[2023-08-04T15:53:23.820Z]	export table anura_2_6.businesscalendars To anura_2_6.businesscalendars.csv
+   anura_2_6.businesscalendars: 0 rows exported
+[2023-08-04T15:53:24.018Z]	export table anura_2_6.businesshours To anura_2_6.businesshours.csv
+   anura_2_6.businesshours: 0 rows exported
+[2023-08-04T15:53:24.209Z]	export table anura_2_6.changeovertimes To anura_2_6.changeovertimes.csv
+   anura_2_6.changeovertimes: 0 rows exported
+[2023-08-04T15:53:24.360Z]	export table anura_2_6.customerdemand To anura_2_6.customerdemand.csv
+   anura_2_6.customerdemand: 0 rows exported
+[2023-08-04T15:53:24.565Z]	export table anura_2_6.customerfulfillmentpolicies To anura_2_6.customerfulfillmentpolicies.csv
+   anura_2_6.customerfulfillmentpolicies: 0 rows exported
+[2023-08-04T15:53:24.751Z]	export table anura_2_6.customerfulfillmentpoliciesmultitimeperiod To anura_2_6.customerfulfillmentpoliciesmultitimeperiod.csv
+   anura_2_6.customerfulfillmentpoliciesmultitimeperiod: 0 rows exported
+[2023-08-04T15:53:24.932Z]	export table anura_2_6.customerorderprofiles To anura_2_6.customerorderprofiles.csv
+   anura_2_6.customerorderprofiles: 0 rows exported
+[2023-08-04T15:53:25.126Z]	export table anura_2_6.customerorders To anura_2_6.customerorders.csv
+   anura_2_6.customerorders: 0 rows exported
+[2023-08-04T15:53:25.318Z]	export table anura_2_6.customerriskconfigurations To anura_2_6.customerriskconfigurations.csv
+   anura_2_6.customerriskconfigurations: 2 rows exported
+[2023-08-04T15:53:25.510Z]	export table anura_2_6.customers To anura_2_6.customers.csv
+   anura_2_6.customers: 0 rows exported
+[2023-08-04T15:53:25.651Z]	export table anura_2_6.customersmultitimeperiod To anura_2_6.customersmultitimeperiod.csv
+   anura_2_6.customersmultitimeperiod: 0 rows exported
+[2023-08-04T15:53:25.827Z]	export table anura_2_6.customertransitconstraints To anura_2_6.customertransitconstraints.csv
+   anura_2_6.customertransitconstraints: 0 rows exported
+[2023-08-04T15:53:26.030Z]	export table anura_2_6.customsimulationscripts To anura_2_6.customsimulationscripts.csv
+   anura_2_6.customsimulationscripts: 0 rows exported
+[2023-08-04T15:53:26.217Z]	export table anura_2_6.facilities To anura_2_6.facilities.csv
+   anura_2_6.facilities: 0 rows exported
+[2023-08-04T15:53:26.363Z]	export table anura_2_6.facilitiesmultitimeperiod To anura_2_6.facilitiesmultitimeperiod.csv
+   anura_2_6.facilitiesmultitimeperiod: 0 rows exported
+[2023-08-04T15:53:26.542Z]	export table anura_2_6.facilitycountconstraints To anura_2_6.facilitycountconstraints.csv
+   anura_2_6.facilitycountconstraints: 0 rows exported
+[2023-08-04T15:53:26.730Z]	export table anura_2_6.facilitydemand To anura_2_6.facilitydemand.csv
+   anura_2_6.facilitydemand: 0 rows exported
+[2023-08-04T15:53:26.924Z]	export table anura_2_6.facilityriskconfigurations To anura_2_6.facilityriskconfigurations.csv
+   anura_2_6.facilityriskconfigurations: 2 rows exported
+[2023-08-04T15:53:27.119Z]	export table anura_2_6.flowconstraints To anura_2_6.flowconstraints.csv
+   anura_2_6.flowconstraints: 0 rows exported
+[2023-08-04T15:53:27.268Z]	export table anura_2_6.flowcountconstraints To anura_2_6.flowcountconstraints.csv
+   anura_2_6.flowcountconstraints: 0 rows exported
+[2023-08-04T15:53:27.452Z]	export table anura_2_6.geographicriskconfigurations To anura_2_6.geographicriskconfigurations.csv
+   anura_2_6.geographicriskconfigurations: 2 rows exported
+[2023-08-04T15:53:27.632Z]	export table anura_2_6.greenfieldservicebands To anura_2_6.greenfieldservicebands.csv
+   anura_2_6.greenfieldservicebands: 0 rows exported
+[2023-08-04T15:53:27.824Z]	export table anura_2_6.greenfieldsettings To anura_2_6.greenfieldsettings.csv
+   anura_2_6.greenfieldsettings: 1 row exported
+[2023-08-04T15:53:28.018Z]	export table anura_2_6.groups To anura_2_6.groups.csv
+   anura_2_6.groups: 0 rows exported
+[2023-08-04T15:53:28.167Z]	export table anura_2_6.histograms To anura_2_6.histograms.csv
+   anura_2_6.histograms: 0 rows exported
+[2023-08-04T15:53:28.351Z]	export table anura_2_6.inputfactors To anura_2_6.inputfactors.csv
+   anura_2_6.inputfactors: 0 rows exported
+[2023-08-04T15:53:28.529Z]	export table anura_2_6.inventoryconstraints To anura_2_6.inventoryconstraints.csv
+   anura_2_6.inventoryconstraints: 0 rows exported
+[2023-08-04T15:53:28.729Z]	export table anura_2_6.inventorycountconstraints To anura_2_6.inventorycountconstraints.csv
+   anura_2_6.inventorycountconstraints: 0 rows exported
+[2023-08-04T15:53:28.917Z]	export table anura_2_6.inventorypolicies To anura_2_6.inventorypolicies.csv
+   anura_2_6.inventorypolicies: 0 rows exported
+[2023-08-04T15:53:29.061Z]	export table anura_2_6.inventorypoliciesmultitimeperiod To anura_2_6.inventorypoliciesmultitimeperiod.csv
+   anura_2_6.inventorypoliciesmultitimeperiod: 0 rows exported
+[2023-08-04T15:53:29.232Z]	export table anura_2_6.lookups To anura_2_6.lookups.csv
+   anura_2_6.lookups: 0 rows exported
+[2023-08-04T15:53:29.418Z]	export table anura_2_6.maps To anura_2_6.maps.csv
+   anura_2_6.maps: 8 rows exported
+[2023-08-04T15:53:29.566Z]	export table anura_2_6.modelinfo To anura_2_6.modelinfo.csv
+   anura_2_6.modelinfo: 0 rows exported
+[2023-08-04T15:53:29.726Z]	export table anura_2_6.modelrunoptions To anura_2_6.modelrunoptions.csv
+   anura_2_6.modelrunoptions: 40 rows exported
+[2023-08-04T15:53:29.921Z]	export table anura_2_6.modelsettings To anura_2_6.modelsettings.csv
+   anura_2_6.modelsettings: 1 row exported
+[2023-08-04T15:53:30.116Z]	export table anura_2_6.networkriskconfigurations To anura_2_6.networkriskconfigurations.csv
+   anura_2_6.networkriskconfigurations: 2 rows exported
+[2023-08-04T15:53:30.266Z]	export table anura_2_6.optimizationbillsofmaterialsummary To anura_2_6.optimizationbillsofmaterialsummary.csv
+   anura_2_6.optimizationbillsofmaterialsummary: 0 rows exported
+[2023-08-04T15:53:30.442Z]	export table anura_2_6.optimizationconstraintsummary To anura_2_6.optimizationconstraintsummary.csv
+   anura_2_6.optimizationconstraintsummary: 0 rows exported
+[2023-08-04T15:53:30.630Z]	export table anura_2_6.optimizationcosttoserveparentinformationreport To anura_2_6.optimizationcosttoserveparentinformationreport.csv
+   anura_2_6.optimizationcosttoserveparentinformationreport: 0 rows exported
+[2023-08-04T15:53:30.829Z]	export table anura_2_6.optimizationcosttoservesummary To anura_2_6.optimizationcosttoservesummary.csv
+   anura_2_6.optimizationcosttoservesummary: 0 rows exported
+[2023-08-04T15:53:31.021Z]	export table anura_2_6.optimizationcustomerriskmetrics To anura_2_6.optimizationcustomerriskmetrics.csv
+   anura_2_6.optimizationcustomerriskmetrics: 0 rows exported
+[2023-08-04T15:53:31.217Z]	export table anura_2_6.optimizationcustomersummary To anura_2_6.optimizationcustomersummary.csv
+   anura_2_6.optimizationcustomersummary: 0 rows exported
+[2023-08-04T15:53:31.363Z]	export table anura_2_6.optimizationdemandsummary To anura_2_6.optimizationdemandsummary.csv
+   anura_2_6.optimizationdemandsummary: 0 rows exported
+[2023-08-04T15:53:31.548Z]	export table anura_2_6.optimizationfacilitycosttoservesummary To anura_2_6.optimizationfacilitycosttoservesummary.csv
+   anura_2_6.optimizationfacilitycosttoservesummary: 0 rows exported
+[2023-08-04T15:53:31.729Z]	export table anura_2_6.optimizationfacilityriskmetrics To anura_2_6.optimizationfacilityriskmetrics.csv
+   anura_2_6.optimizationfacilityriskmetrics: 0 rows exported
+[2023-08-04T15:53:31.930Z]	export table anura_2_6.optimizationfacilitysummary To anura_2_6.optimizationfacilitysummary.csv
+   anura_2_6.optimizationfacilitysummary: 0 rows exported
+[2023-08-04T15:53:32.118Z]	export table anura_2_6.optimizationflowsummary To anura_2_6.optimizationflowsummary.csv
+   anura_2_6.optimizationflowsummary: 0 rows exported
+[2023-08-04T15:53:32.315Z]	export table anura_2_6.optimizationgeographicriskmetrics To anura_2_6.optimizationgeographicriskmetrics.csv
+   anura_2_6.optimizationgeographicriskmetrics: 0 rows exported
+[2023-08-04T15:53:32.473Z]	export table anura_2_6.optimizationgreenfieldcustomerriskmetrics To anura_2_6.optimizationgreenfieldcustomerriskmetrics.csv
+   anura_2_6.optimizationgreenfieldcustomerriskmetrics: 0 rows exported
+[2023-08-04T15:53:32.664Z]	export table anura_2_6.optimizationgreenfieldcustomersummary To anura_2_6.optimizationgreenfieldcustomersummary.csv
+   anura_2_6.optimizationgreenfieldcustomersummary: 0 rows exported
+[2023-08-04T15:53:32.852Z]	export table anura_2_6.optimizationgreenfieldfacilityriskmetrics To anura_2_6.optimizationgreenfieldfacilityriskmetrics.csv
+   anura_2_6.optimizationgreenfieldfacilityriskmetrics: 0 rows exported
+[2023-08-04T15:53:33.028Z]	export table anura_2_6.optimizationgreenfieldfacilitysummary To anura_2_6.optimizationgreenfieldfacilitysummary.csv
+   anura_2_6.optimizationgreenfieldfacilitysummary: 0 rows exported
+[2023-08-04T15:53:33.231Z]	export table anura_2_6.optimizationgreenfieldflowsummary To anura_2_6.optimizationgreenfieldflowsummary.csv
+   anura_2_6.optimizationgreenfieldflowsummary: 0 rows exported
+[2023-08-04T15:53:33.420Z]	export table anura_2_6.optimizationgreenfieldgeographicriskmetrics To anura_2_6.optimizationgreenfieldgeographicriskmetrics.csv
+   anura_2_6.optimizationgreenfieldgeographicriskmetrics: 0 rows exported
+[2023-08-04T15:53:33.610Z]	export table anura_2_6.optimizationgreenfieldnetworkriskmetrics To anura_2_6.optimizationgreenfieldnetworkriskmetrics.csv
+   anura_2_6.optimizationgreenfieldnetworkriskmetrics: 0 rows exported
+[2023-08-04T15:53:33.758Z]	export table anura_2_6.optimizationgreenfieldnetworksummary To anura_2_6.optimizationgreenfieldnetworksummary.csv
+   anura_2_6.optimizationgreenfieldnetworksummary: 0 rows exported
+[2023-08-04T15:53:33.934Z]	export table anura_2_6.optimizationgreenfieldriskmetricssummary To anura_2_6.optimizationgreenfieldriskmetricssummary.csv
+   anura_2_6.optimizationgreenfieldriskmetricssummary: 0 rows exported
+[2023-08-04T15:53:34.125Z]	export table anura_2_6.optimizationgreenfieldservicebandsummary To anura_2_6.optimizationgreenfieldservicebandsummary.csv
+   anura_2_6.optimizationgreenfieldservicebandsummary: 0 rows exported
+[2023-08-04T15:53:34.316Z]	export table anura_2_6.optimizationgreenfieldsupplierriskmetrics To anura_2_6.optimizationgreenfieldsupplierriskmetrics.csv
+   anura_2_6.optimizationgreenfieldsupplierriskmetrics: 0 rows exported
+[2023-08-04T15:53:34.462Z]	export table anura_2_6.optimizationgreenfieldsuppliersummary To anura_2_6.optimizationgreenfieldsuppliersummary.csv
+   anura_2_6.optimizationgreenfieldsuppliersummary: 0 rows exported
+[2023-08-04T15:53:34.640Z]	export table anura_2_6.optimizationinventorysummary To anura_2_6.optimizationinventorysummary.csv
+   anura_2_6.optimizationinventorysummary: 0 rows exported
+[2023-08-04T15:53:34.829Z]	export table anura_2_6.optimizationnetworkriskmetrics To anura_2_6.optimizationnetworkriskmetrics.csv
+   anura_2_6.optimizationnetworkriskmetrics: 0 rows exported
+[2023-08-04T15:53:35.018Z]	export table anura_2_6.optimizationnetworksummary To anura_2_6.optimizationnetworksummary.csv
+   anura_2_6.optimizationnetworksummary: 0 rows exported
+[2023-08-04T15:53:35.167Z]	export table anura_2_6.optimizationprocesssummary To anura_2_6.optimizationprocesssummary.csv
+   anura_2_6.optimizationprocesssummary: 0 rows exported
+[2023-08-04T15:53:35.353Z]	export table anura_2_6.optimizationproductionsummary To anura_2_6.optimizationproductionsummary.csv
+   anura_2_6.optimizationproductionsummary: 0 rows exported
+[2023-08-04T15:53:35.528Z]	export table anura_2_6.optimizationproductriskmetrics To anura_2_6.optimizationproductriskmetrics.csv
+   anura_2_6.optimizationproductriskmetrics: 0 rows exported
+[2023-08-04T15:53:35.722Z]	export table anura_2_6.optimizationriskmetricssummary To anura_2_6.optimizationriskmetricssummary.csv
+   anura_2_6.optimizationriskmetricssummary: 0 rows exported
+[2023-08-04T15:53:35.917Z]	export table anura_2_6.optimizationsequentialobjectivesummary To anura_2_6.optimizationsequentialobjectivesummary.csv
+   anura_2_6.optimizationsequentialobjectivesummary: 0 rows exported
+[2023-08-04T15:53:36.066Z]	export table anura_2_6.optimizationshipmentsummary To anura_2_6.optimizationshipmentsummary.csv
+   anura_2_6.optimizationshipmentsummary: 0 rows exported
+[2023-08-04T15:53:36.240Z]	export table anura_2_6.optimizationsupplierriskmetrics To anura_2_6.optimizationsupplierriskmetrics.csv
+   anura_2_6.optimizationsupplierriskmetrics: 0 rows exported
+[2023-08-04T15:53:36.428Z]	export table anura_2_6.optimizationsuppliersummary To anura_2_6.optimizationsuppliersummary.csv
+   anura_2_6.optimizationsuppliersummary: 0 rows exported
+[2023-08-04T15:53:36.618Z]	export table anura_2_6.optimizationsupplysummary To anura_2_6.optimizationsupplysummary.csv
+   anura_2_6.optimizationsupplysummary: 0 rows exported
+[2023-08-04T15:53:36.772Z]	export table anura_2_6.optimizationuserdefinedcostsummary To anura_2_6.optimizationuserdefinedcostsummary.csv
+   anura_2_6.optimizationuserdefinedcostsummary: 0 rows exported
+[2023-08-04T15:53:36.954Z]	export table anura_2_6.optimizationuserdefinedvariablesummary To anura_2_6.optimizationuserdefinedvariablesummary.csv
+   anura_2_6.optimizationuserdefinedvariablesummary: 0 rows exported
+[2023-08-04T15:53:37.137Z]	export table anura_2_6.optimizationutilizationriskmetrics To anura_2_6.optimizationutilizationriskmetrics.csv
+   anura_2_6.optimizationutilizationriskmetrics: 0 rows exported
+[2023-08-04T15:53:37.327Z]	export table anura_2_6.optimizationvalidationerrorreport To anura_2_6.optimizationvalidationerrorreport.csv
+   anura_2_6.optimizationvalidationerrorreport: 0 rows exported
+[2023-08-04T15:53:37.517Z]	export table anura_2_6.optimizationwarehousingsummary To anura_2_6.optimizationwarehousingsummary.csv
+   anura_2_6.optimizationwarehousingsummary: 0 rows exported
+[2023-08-04T15:53:37.662Z]	export table anura_2_6.optimizationworkcentersummary To anura_2_6.optimizationworkcentersummary.csv
+   anura_2_6.optimizationworkcentersummary: 0 rows exported
+[2023-08-04T15:53:37.849Z]	export table anura_2_6.orderedproductsubstitution To anura_2_6.orderedproductsubstitution.csv
+   anura_2_6.orderedproductsubstitution: 0 rows exported
+[2023-08-04T15:53:38.035Z]	export table anura_2_6.orderfulfillmentpolicies To anura_2_6.orderfulfillmentpolicies.csv
+   anura_2_6.orderfulfillmentpolicies: 0 rows exported
+[2023-08-04T15:53:38.226Z]	export table anura_2_6.orderprofileproductaffinity To anura_2_6.orderprofileproductaffinity.csv
+   anura_2_6.orderprofileproductaffinity: 0 rows exported
+[2023-08-04T15:53:38.418Z]	export table anura_2_6.orderprofileproductselection To anura_2_6.orderprofileproductselection.csv
+   anura_2_6.orderprofileproductselection: 0 rows exported
+[2023-08-04T15:53:38.567Z]	export table anura_2_6.organizations To anura_2_6.organizations.csv
+   anura_2_6.organizations: 0 rows exported
+[2023-08-04T15:53:38.745Z]	export table anura_2_6.outputfactors To anura_2_6.outputfactors.csv
+   anura_2_6.outputfactors: 0 rows exported
+[2023-08-04T15:53:38.928Z]	export table anura_2_6.periods To anura_2_6.periods.csv
+   anura_2_6.periods: 0 rows exported
+[2023-08-04T15:53:39.117Z]	export table anura_2_6.processes To anura_2_6.processes.csv
+   anura_2_6.processes: 0 rows exported
+[2023-08-04T15:53:39.264Z]	export table anura_2_6.processesmultitimeperiod To anura_2_6.processesmultitimeperiod.csv
+   anura_2_6.processesmultitimeperiod: 0 rows exported
+[2023-08-04T15:53:39.440Z]	export table anura_2_6.procurementorderprofiles To anura_2_6.procurementorderprofiles.csv
+   anura_2_6.procurementorderprofiles: 0 rows exported
+[2023-08-04T15:53:39.627Z]	export table anura_2_6.procurementorders To anura_2_6.procurementorders.csv
+   anura_2_6.procurementorders: 0 rows exported
+[2023-08-04T15:53:39.818Z]	export table anura_2_6.procurementpolicies To anura_2_6.procurementpolicies.csv
+   anura_2_6.procurementpolicies: 0 rows exported
+[2023-08-04T15:53:39.966Z]	export table anura_2_6.procurementpoliciesmultitimeperiod To anura_2_6.procurementpoliciesmultitimeperiod.csv
+   anura_2_6.procurementpoliciesmultitimeperiod: 0 rows exported
+[2023-08-04T15:53:40.150Z]	export table anura_2_6.productionconstraints To anura_2_6.productionconstraints.csv
+   anura_2_6.productionconstraints: 0 rows exported
+[2023-08-04T15:53:40.328Z]	export table anura_2_6.productioncountconstraints To anura_2_6.productioncountconstraints.csv
+   anura_2_6.productioncountconstraints: 0 rows exported
+[2023-08-04T15:53:40.522Z]	export table anura_2_6.productionorderprofiles To anura_2_6.productionorderprofiles.csv
+   anura_2_6.productionorderprofiles: 0 rows exported
+[2023-08-04T15:53:40.714Z]	export table anura_2_6.productionorders To anura_2_6.productionorders.csv
+   anura_2_6.productionorders: 0 rows exported
+[2023-08-04T15:53:40.862Z]	export table anura_2_6.productionpolicies To anura_2_6.productionpolicies.csv
+   anura_2_6.productionpolicies: 0 rows exported
+[2023-08-04T15:53:41.038Z]	export table anura_2_6.productionpoliciesmultitimeperiod To anura_2_6.productionpoliciesmultitimeperiod.csv
+   anura_2_6.productionpoliciesmultitimeperiod: 0 rows exported
+[2023-08-04T15:53:41.228Z]	export table anura_2_6.products To anura_2_6.products.csv
+   anura_2_6.products: 0 rows exported
+[2023-08-04T15:53:41.419Z]	export table anura_2_6.productsmultitimeperiod To anura_2_6.productsmultitimeperiod.csv
+   anura_2_6.productsmultitimeperiod: 0 rows exported
+[2023-08-04T15:53:41.570Z]	export table anura_2_6.productunitsofmeasure To anura_2_6.productunitsofmeasure.csv
+   anura_2_6.productunitsofmeasure: 0 rows exported
+[2023-08-04T15:53:41.754Z]	export table anura_2_6.replenishmentorderprofiles To anura_2_6.replenishmentorderprofiles.csv
+   anura_2_6.replenishmentorderprofiles: 0 rows exported
+[2023-08-04T15:53:41.930Z]	export table anura_2_6.replenishmentorders To anura_2_6.replenishmentorders.csv
+   anura_2_6.replenishmentorders: 0 rows exported
+[2023-08-04T15:53:42.122Z]	export table anura_2_6.replenishmentpolicies To anura_2_6.replenishmentpolicies.csv
+   anura_2_6.replenishmentpolicies: 0 rows exported
+[2023-08-04T15:53:42.317Z]	export table anura_2_6.replenishmentpoliciesmultitimeperiod To anura_2_6.replenishmentpoliciesmultitimeperiod.csv
+   anura_2_6.replenishmentpoliciesmultitimeperiod: 0 rows exported
+[2023-08-04T15:53:42.470Z]	export table anura_2_6.riskbanddefinitions To anura_2_6.riskbanddefinitions.csv
+   anura_2_6.riskbanddefinitions: 112 rows exported
+[2023-08-04T15:53:42.655Z]	export table anura_2_6.riskratingconfigurations To anura_2_6.riskratingconfigurations.csv
+   anura_2_6.riskratingconfigurations: 2 rows exported
+[2023-08-04T15:53:42.831Z]	export table anura_2_6.risksummaryconfigurations To anura_2_6.risksummaryconfigurations.csv
+   anura_2_6.risksummaryconfigurations: 2 rows exported
+[2023-08-04T15:53:43.025Z]	export table anura_2_6.scenarioitemassignments To anura_2_6.scenarioitemassignments.csv
+   anura_2_6.scenarioitemassignments: 10 rows exported
+[2023-08-04T15:53:43.217Z]	export table anura_2_6.scenarioitems To anura_2_6.scenarioitems.csv
+   anura_2_6.scenarioitems: 7 rows exported
+[2023-08-04T15:53:43.368Z]	export table anura_2_6.scenarios To anura_2_6.scenarios.csv
+   anura_2_6.scenarios: 5 rows exported
+[2023-08-04T15:53:43.563Z]	export table anura_2_6.sequentialobjectives To anura_2_6.sequentialobjectives.csv
+   anura_2_6.sequentialobjectives: 0 rows exported
+[2023-08-04T15:53:43.753Z]	export table anura_2_6.shipments To anura_2_6.shipments.csv
+   anura_2_6.shipments: 0 rows exported
+[2023-08-04T15:53:43.930Z]	export table anura_2_6.simulationcustomerproductservicesummary To anura_2_6.simulationcustomerproductservicesummary.csv
+   anura_2_6.simulationcustomerproductservicesummary: 0 rows exported
+[2023-08-04T15:53:44.123Z]	export table anura_2_6.simulationcustomerproductservicesummaryreplicationdetail To anura_2_6.simulationcustomerproductservicesummaryreplicationdetail.csv
+   anura_2_6.simulationcustomerproductservicesummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:44.316Z]	export table anura_2_6.simulationcustomerproductsummary To anura_2_6.simulationcustomerproductsummary.csv
+   anura_2_6.simulationcustomerproductsummary: 0 rows exported
+[2023-08-04T15:53:44.511Z]	export table anura_2_6.simulationcustomerproductsummaryreplicationdetail To anura_2_6.simulationcustomerproductsummaryreplicationdetail.csv
+   anura_2_6.simulationcustomerproductsummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:44.664Z]	export table anura_2_6.simulationcustomerriskmetrics To anura_2_6.simulationcustomerriskmetrics.csv
+   anura_2_6.simulationcustomerriskmetrics: 0 rows exported
+[2023-08-04T15:53:44.860Z]	export table anura_2_6.simulationcustomerriskmetricsreplicationdetail To anura_2_6.simulationcustomerriskmetricsreplicationdetail.csv
+   anura_2_6.simulationcustomerriskmetricsreplicationdetail: 0 rows exported
+[2023-08-04T15:53:45.054Z]	export table anura_2_6.simulationcustomerservicesummary To anura_2_6.simulationcustomerservicesummary.csv
+   anura_2_6.simulationcustomerservicesummary: 0 rows exported
+[2023-08-04T15:53:45.227Z]	export table anura_2_6.simulationcustomerservicesummaryreplicationdetail To anura_2_6.simulationcustomerservicesummaryreplicationdetail.csv
+   anura_2_6.simulationcustomerservicesummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:45.427Z]	export table anura_2_6.simulationcustomersummary To anura_2_6.simulationcustomersummary.csv
+   anura_2_6.simulationcustomersummary: 0 rows exported
+[2023-08-04T15:53:45.619Z]	export table anura_2_6.simulationcustomersummaryreplicationdetail To anura_2_6.simulationcustomersummaryreplicationdetail.csv
+   anura_2_6.simulationcustomersummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:45.768Z]	export table anura_2_6.simulationevolutionaryalgorithminputfactorreport To anura_2_6.simulationevolutionaryalgorithminputfactorreport.csv
+   anura_2_6.simulationevolutionaryalgorithminputfactorreport: 0 rows exported
+[2023-08-04T15:53:45.959Z]	export table anura_2_6.simulationevolutionaryalgorithmoutputfactorreport To anura_2_6.simulationevolutionaryalgorithmoutputfactorreport.csv
+   anura_2_6.simulationevolutionaryalgorithmoutputfactorreport: 0 rows exported
+[2023-08-04T15:53:46.145Z]	export table anura_2_6.simulationevolutionaryalgorithmsummary To anura_2_6.simulationevolutionaryalgorithmsummary.csv
+   anura_2_6.simulationevolutionaryalgorithmsummary: 0 rows exported
+[2023-08-04T15:53:46.330Z]	export table anura_2_6.simulationfacilityproductservicesummary To anura_2_6.simulationfacilityproductservicesummary.csv
+   anura_2_6.simulationfacilityproductservicesummary: 0 rows exported
+[2023-08-04T15:53:46.530Z]	export table anura_2_6.simulationfacilityproductservicesummaryreplicationdetail To anura_2_6.simulationfacilityproductservicesummaryreplicationdetail.csv
+   anura_2_6.simulationfacilityproductservicesummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:46.718Z]	export table anura_2_6.simulationfacilityproductsummary To anura_2_6.simulationfacilityproductsummary.csv
+   anura_2_6.simulationfacilityproductsummary: 0 rows exported
+[2023-08-04T15:53:46.869Z]	export table anura_2_6.simulationfacilityproductsummaryreplicationdetail To anura_2_6.simulationfacilityproductsummaryreplicationdetail.csv
+   anura_2_6.simulationfacilityproductsummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:47.061Z]	export table anura_2_6.simulationfacilityriskmetrics To anura_2_6.simulationfacilityriskmetrics.csv
+   anura_2_6.simulationfacilityriskmetrics: 0 rows exported
+[2023-08-04T15:53:47.248Z]	export table anura_2_6.simulationfacilityriskmetricsreplicationdetail To anura_2_6.simulationfacilityriskmetricsreplicationdetail.csv
+   anura_2_6.simulationfacilityriskmetricsreplicationdetail: 0 rows exported
+[2023-08-04T15:53:47.430Z]	export table anura_2_6.simulationfacilityservicesummary To anura_2_6.simulationfacilityservicesummary.csv
+   anura_2_6.simulationfacilityservicesummary: 0 rows exported
+[2023-08-04T15:53:47.626Z]	export table anura_2_6.simulationfacilityservicesummaryreplicationdetail To anura_2_6.simulationfacilityservicesummaryreplicationdetail.csv
+   anura_2_6.simulationfacilityservicesummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:47.816Z]	export table anura_2_6.simulationfacilitysummary To anura_2_6.simulationfacilitysummary.csv
+   anura_2_6.simulationfacilitysummary: 0 rows exported
+[2023-08-04T15:53:47.961Z]	export table anura_2_6.simulationfacilitysummaryreplicationdetail To anura_2_6.simulationfacilitysummaryreplicationdetail.csv
+   anura_2_6.simulationfacilitysummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:48.144Z]	export table anura_2_6.simulationflowsummary To anura_2_6.simulationflowsummary.csv
+   anura_2_6.simulationflowsummary: 0 rows exported
+[2023-08-04T15:53:48.328Z]	export table anura_2_6.simulationflowsummaryreplicationdetail To anura_2_6.simulationflowsummaryreplicationdetail.csv
+   anura_2_6.simulationflowsummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:48.523Z]	export table anura_2_6.simulationgeographicriskmetrics To anura_2_6.simulationgeographicriskmetrics.csv
+   anura_2_6.simulationgeographicriskmetrics: 0 rows exported
+[2023-08-04T15:53:48.713Z]	export table anura_2_6.simulationgeographicriskmetricsreplicationdetail To anura_2_6.simulationgeographicriskmetricsreplicationdetail.csv
+   anura_2_6.simulationgeographicriskmetricsreplicationdetail: 0 rows exported
+[2023-08-04T15:53:48.860Z]	export table anura_2_6.simulationinventoryonhandreport To anura_2_6.simulationinventoryonhandreport.csv
+   anura_2_6.simulationinventoryonhandreport: 0 rows exported
+[2023-08-04T15:53:49.032Z]	export table anura_2_6.simulationlanemodequeuedepthreport To anura_2_6.simulationlanemodequeuedepthreport.csv
+   anura_2_6.simulationlanemodequeuedepthreport: 0 rows exported
+[2023-08-04T15:53:49.226Z]	export table anura_2_6.simulationlanemodequeuesummary To anura_2_6.simulationlanemodequeuesummary.csv
+   anura_2_6.simulationlanemodequeuesummary: 0 rows exported
+[2023-08-04T15:53:49.416Z]	export table anura_2_6.simulationlanemodequeuesummaryreplicationdetail To anura_2_6.simulationlanemodequeuesummaryreplicationdetail.csv
+   anura_2_6.simulationlanemodequeuesummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:49.569Z]	export table anura_2_6.simulationlanequeuedepthreport To anura_2_6.simulationlanequeuedepthreport.csv
+   anura_2_6.simulationlanequeuedepthreport: 0 rows exported
+[2023-08-04T15:53:49.742Z]	export table anura_2_6.simulationlanequeuesummary To anura_2_6.simulationlanequeuesummary.csv
+   anura_2_6.simulationlanequeuesummary: 0 rows exported
+[2023-08-04T15:53:49.926Z]	export table anura_2_6.simulationlanequeuesummaryreplicationdetail To anura_2_6.simulationlanequeuesummaryreplicationdetail.csv
+   anura_2_6.simulationlanequeuesummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:50.118Z]	export table anura_2_6.simulationlanesummary To anura_2_6.simulationlanesummary.csv
+   anura_2_6.simulationlanesummary: 0 rows exported
+[2023-08-04T15:53:50.269Z]	export table anura_2_6.simulationlanesummaryreplicationdetail To anura_2_6.simulationlanesummaryreplicationdetail.csv
+   anura_2_6.simulationlanesummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:50.456Z]	export table anura_2_6.simulationnetworkriskmetrics To anura_2_6.simulationnetworkriskmetrics.csv
+   anura_2_6.simulationnetworkriskmetrics: 0 rows exported
+[2023-08-04T15:53:50.636Z]	export table anura_2_6.simulationnetworkriskmetricsreplicationdetail To anura_2_6.simulationnetworkriskmetricsreplicationdetail.csv
+   anura_2_6.simulationnetworkriskmetricsreplicationdetail: 0 rows exported
+[2023-08-04T15:53:50.830Z]	export table anura_2_6.simulationnetworkservicesummary To anura_2_6.simulationnetworkservicesummary.csv
+   anura_2_6.simulationnetworkservicesummary: 0 rows exported
+[2023-08-04T15:53:51.018Z]	export table anura_2_6.simulationnetworkservicesummaryreplicationdetail To anura_2_6.simulationnetworkservicesummaryreplicationdetail.csv
+   anura_2_6.simulationnetworkservicesummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:51.218Z]	export table anura_2_6.simulationnetworksummary To anura_2_6.simulationnetworksummary.csv
+   anura_2_6.simulationnetworksummary: 0 rows exported
+[2023-08-04T15:53:51.410Z]	export table anura_2_6.simulationnetworksummaryreplicationdetail To anura_2_6.simulationnetworksummaryreplicationdetail.csv
+   anura_2_6.simulationnetworksummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:51.563Z]	export table anura_2_6.simulationorderfulfillmentqueuedepthreport To anura_2_6.simulationorderfulfillmentqueuedepthreport.csv
+   anura_2_6.simulationorderfulfillmentqueuedepthreport: 0 rows exported
+[2023-08-04T15:53:51.740Z]	export table anura_2_6.simulationorderfulfillmentqueuesummary To anura_2_6.simulationorderfulfillmentqueuesummary.csv
+   anura_2_6.simulationorderfulfillmentqueuesummary: 0 rows exported
+[2023-08-04T15:53:51.927Z]	export table anura_2_6.simulationorderfulfillmentqueuesummaryreplicationdetail To anura_2_6.simulationorderfulfillmentqueuesummaryreplicationdetail.csv
+   anura_2_6.simulationorderfulfillmentqueuesummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:52.118Z]	export table anura_2_6.simulationorderreport To anura_2_6.simulationorderreport.csv
+   anura_2_6.simulationorderreport: 0 rows exported
+[2023-08-04T15:53:52.266Z]	export table anura_2_6.simulationprocessreport To anura_2_6.simulationprocessreport.csv
+   anura_2_6.simulationprocessreport: 0 rows exported
+[2023-08-04T15:53:52.440Z]	export table anura_2_6.simulationprocesssummary To anura_2_6.simulationprocesssummary.csv
+   anura_2_6.simulationprocesssummary: 0 rows exported
+[2023-08-04T15:53:52.628Z]	export table anura_2_6.simulationprocesssummaryreplicationdetail To anura_2_6.simulationprocesssummaryreplicationdetail.csv
+   anura_2_6.simulationprocesssummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:52.818Z]	export table anura_2_6.simulationproductionreport To anura_2_6.simulationproductionreport.csv
+   anura_2_6.simulationproductionreport: 0 rows exported
+[2023-08-04T15:53:53.010Z]	export table anura_2_6.simulationproductriskmetrics To anura_2_6.simulationproductriskmetrics.csv
+   anura_2_6.simulationproductriskmetrics: 0 rows exported
+[2023-08-04T15:53:53.162Z]	export table anura_2_6.simulationproductriskmetricsreplicationdetail To anura_2_6.simulationproductriskmetricsreplicationdetail.csv
+   anura_2_6.simulationproductriskmetricsreplicationdetail: 0 rows exported
+[2023-08-04T15:53:53.346Z]	export table anura_2_6.simulationriskmetricssummary To anura_2_6.simulationriskmetricssummary.csv
+   anura_2_6.simulationriskmetricssummary: 0 rows exported
+[2023-08-04T15:53:53.530Z]	export table anura_2_6.simulationriskmetricssummaryreplicationdetail To anura_2_6.simulationriskmetricssummaryreplicationdetail.csv
+   anura_2_6.simulationriskmetricssummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:53.730Z]	export table anura_2_6.simulationshipmentreport To anura_2_6.simulationshipmentreport.csv
+   anura_2_6.simulationshipmentreport: 0 rows exported
+[2023-08-04T15:53:53.920Z]	export table anura_2_6.simulationsupplierproductsummary To anura_2_6.simulationsupplierproductsummary.csv
+   anura_2_6.simulationsupplierproductsummary: 0 rows exported
+[2023-08-04T15:53:54.074Z]	export table anura_2_6.simulationsupplierproductsummaryreplicationdetail To anura_2_6.simulationsupplierproductsummaryreplicationdetail.csv
+   anura_2_6.simulationsupplierproductsummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:54.255Z]	export table anura_2_6.simulationsupplierriskmetrics To anura_2_6.simulationsupplierriskmetrics.csv
+   anura_2_6.simulationsupplierriskmetrics: 0 rows exported
+[2023-08-04T15:53:54.431Z]	export table anura_2_6.simulationsupplierriskmetricsreplicationdetail To anura_2_6.simulationsupplierriskmetricsreplicationdetail.csv
+   anura_2_6.simulationsupplierriskmetricsreplicationdetail: 0 rows exported
+[2023-08-04T15:53:54.625Z]	export table anura_2_6.simulationsuppliersummary To anura_2_6.simulationsuppliersummary.csv
+   anura_2_6.simulationsuppliersummary: 0 rows exported
+[2023-08-04T15:53:54.817Z]	export table anura_2_6.simulationsuppliersummaryreplicationdetail To anura_2_6.simulationsuppliersummaryreplicationdetail.csv
+   anura_2_6.simulationsuppliersummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:54.966Z]	export table anura_2_6.simulationvalidationerrorreport To anura_2_6.simulationvalidationerrorreport.csv
+   anura_2_6.simulationvalidationerrorreport: 0 rows exported
+[2023-08-04T15:53:55.142Z]	export table anura_2_6.simulationworkcenterqueuedepthreport To anura_2_6.simulationworkcenterqueuedepthreport.csv
+   anura_2_6.simulationworkcenterqueuedepthreport: 0 rows exported
+[2023-08-04T15:53:55.327Z]	export table anura_2_6.simulationworkcenterqueuesummary To anura_2_6.simulationworkcenterqueuesummary.csv
+   anura_2_6.simulationworkcenterqueuesummary: 0 rows exported
+[2023-08-04T15:53:55.520Z]	export table anura_2_6.simulationworkcenterqueuesummaryreplicationdetail To anura_2_6.simulationworkcenterqueuesummaryreplicationdetail.csv
+   anura_2_6.simulationworkcenterqueuesummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:55.668Z]	export table anura_2_6.simulationworkcentersummary To anura_2_6.simulationworkcentersummary.csv
+   anura_2_6.simulationworkcentersummary: 0 rows exported
+[2023-08-04T15:53:55.858Z]	export table anura_2_6.simulationworkcentersummaryreplicationdetail To anura_2_6.simulationworkcentersummaryreplicationdetail.csv
+   anura_2_6.simulationworkcentersummaryreplicationdetail: 0 rows exported
+[2023-08-04T15:53:56.035Z]	export table anura_2_6.stepcosts To anura_2_6.stepcosts.csv
+   anura_2_6.stepcosts: 0 rows exported
+[2023-08-04T15:53:56.228Z]	export table anura_2_6.suppliercapabilities To anura_2_6.suppliercapabilities.csv
+   anura_2_6.suppliercapabilities: 0 rows exported
+[2023-08-04T15:53:56.418Z]	export table anura_2_6.suppliercapabilitiesmultitimeperiod To anura_2_6.suppliercapabilitiesmultitimeperiod.csv
+   anura_2_6.suppliercapabilitiesmultitimeperiod: 0 rows exported
+[2023-08-04T15:53:56.568Z]	export table anura_2_6.supplierriskconfigurations To anura_2_6.supplierriskconfigurations.csv
+   anura_2_6.supplierriskconfigurations: 2 rows exported
+[2023-08-04T15:53:56.752Z]	export table anura_2_6.suppliers To anura_2_6.suppliers.csv
+   anura_2_6.suppliers: 0 rows exported
+[2023-08-04T15:53:56.927Z]	export table anura_2_6.suppliersmultitimeperiod To anura_2_6.suppliersmultitimeperiod.csv
+   anura_2_6.suppliersmultitimeperiod: 0 rows exported
+[2023-08-04T15:53:57.122Z]	export table anura_2_6.tablefilters To anura_2_6.tablefilters.csv
+   anura_2_6.tablefilters: 0 rows exported
+[2023-08-04T15:53:57.316Z]	export table anura_2_6.transportationassets To anura_2_6.transportationassets.csv
+   anura_2_6.transportationassets: 0 rows exported
+[2023-08-04T15:53:57.463Z]	export table anura_2_6.transportationassetsmultitimeperiod To anura_2_6.transportationassetsmultitimeperiod.csv
+   anura_2_6.transportationassetsmultitimeperiod: 0 rows exported
+[2023-08-04T15:53:57.642Z]	export table anura_2_6.transportationlanemodequeuedetails To anura_2_6.transportationlanemodequeuedetails.csv
+   anura_2_6.transportationlanemodequeuedetails: 0 rows exported
+[2023-08-04T15:53:57.827Z]	export table anura_2_6.transportationlanequeuedetails To anura_2_6.transportationlanequeuedetails.csv
+   anura_2_6.transportationlanequeuedetails: 0 rows exported
+[2023-08-04T15:53:58.019Z]	export table anura_2_6.transportationmodes To anura_2_6.transportationmodes.csv
+   anura_2_6.transportationmodes: 0 rows exported
+[2023-08-04T15:53:58.210Z]	export table anura_2_6.transportationmodesmultitimeperiod To anura_2_6.transportationmodesmultitimeperiod.csv
+   anura_2_6.transportationmodesmultitimeperiod: 0 rows exported
+[2023-08-04T15:53:58.356Z]	export table anura_2_6.transportationpolicies To anura_2_6.transportationpolicies.csv
+   anura_2_6.transportationpolicies: 0 rows exported
+[2023-08-04T15:53:58.527Z]	export table anura_2_6.transportationpoliciesmultitimeperiod To anura_2_6.transportationpoliciesmultitimeperiod.csv
+   anura_2_6.transportationpoliciesmultitimeperiod: 0 rows exported
+[2023-08-04T15:53:58.730Z]	export table anura_2_6.transportationrates To anura_2_6.transportationrates.csv
+   anura_2_6.transportationrates: 0 rows exported
+[2023-08-04T15:53:58.920Z]	export table anura_2_6.unitsofmeasure To anura_2_6.unitsofmeasure.csv
+   anura_2_6.unitsofmeasure: 34 rows exported
+[2023-08-04T15:53:59.070Z]	export table anura_2_6.userdefinedconstraints To anura_2_6.userdefinedconstraints.csv
+   anura_2_6.userdefinedconstraints: 0 rows exported
+[2023-08-04T15:53:59.254Z]	export table anura_2_6.userdefinedcosts To anura_2_6.userdefinedcosts.csv
+   anura_2_6.userdefinedcosts: 0 rows exported
+[2023-08-04T15:53:59.435Z]	export table anura_2_6.userdefinedforecasts To anura_2_6.userdefinedforecasts.csv
+   anura_2_6.userdefinedforecasts: 0 rows exported
+[2023-08-04T15:53:59.625Z]	export table anura_2_6.userdefinedforecastsdata To anura_2_6.userdefinedforecastsdata.csv
+   anura_2_6.userdefinedforecastsdata: 0 rows exported
+[2023-08-04T15:53:59.817Z]	export table anura_2_6.userdefinedvariables To anura_2_6.userdefinedvariables.csv
+   anura_2_6.userdefinedvariables: 0 rows exported
+[2023-08-04T15:53:59.971Z]	export table anura_2_6.utilizationriskconfigurations To anura_2_6.utilizationriskconfigurations.csv
+   anura_2_6.utilizationriskconfigurations: 2 rows exported
+[2023-08-04T15:54:00.157Z]	export table anura_2_6.warehousingpolicies To anura_2_6.warehousingpolicies.csv
+   anura_2_6.warehousingpolicies: 0 rows exported
+[2023-08-04T15:54:00.327Z]	export table anura_2_6.warehousingpoliciesmultitimeperiod To anura_2_6.warehousingpoliciesmultitimeperiod.csv
+   anura_2_6.warehousingpoliciesmultitimeperiod: 0 rows exported
+[2023-08-04T15:54:00.527Z]	export table anura_2_6.workcentercountconstraints To anura_2_6.workcentercountconstraints.csv
+   anura_2_6.workcentercountconstraints: 0 rows exported
+[2023-08-04T15:54:00.718Z]	export table anura_2_6.workcenterqueuedetails To anura_2_6.workcenterqueuedetails.csv
+   anura_2_6.workcenterqueuedetails: 0 rows exported
+[2023-08-04T15:54:00.871Z]	export table anura_2_6.workcenters To anura_2_6.workcenters.csv
+   anura_2_6.workcenters: 0 rows exported
+[2023-08-04T15:54:01.058Z]	export table anura_2_6.workcentersmultitimeperiod To anura_2_6.workcentersmultitimeperiod.csv
+   anura_2_6.workcentersmultitimeperiod: 0 rows exported
+[2023-08-04T15:54:01.243Z]	export table anura_2_6.workresources To anura_2_6.workresources.csv
+   anura_2_6.workresources: 0 rows exported
+[2023-08-04T15:54:01.426Z]	export table anura_2_6.workresourcesmultitimeperiod To anura_2_6.workresourcesmultitimeperiod.csv
+   anura_2_6.workresourcesmultitimeperiod: 0 rows exported
+[2023-08-04T15:54:01.574Z]	----export complete----
+[2023-08-04T15:54:01.610Z]	----summary----
+[2023-08-04T15:54:01.612Z]	invalid sources:	0
+[2023-08-04T15:54:01.614Z]	table sources:	213
+[2023-08-04T15:54:01.616Z]	view sources:	0
+[2023-08-04T15:54:01.618Z]	query source:	0
+[2023-08-04T15:54:01.629Z]	successfully exported:	213/213

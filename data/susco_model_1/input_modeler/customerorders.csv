@@ -1,0 +1,1 @@
+id,orderid,lineitemid,customername,productname,quantity,quantityuom,orderdate,duedate,status,unitprice,unitpriceuom,servicemode,sourcename,singlesourceorder,singlesourcelineitems,allowpartialfillorders,allowpartialfilllineitems,allowdropship,allowbackorders,backordertimelimit,backordertimelimituom,notes

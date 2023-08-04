@@ -1,0 +1,1 @@
+id,processname,stepname,stepnumber,status,componentname,componentquantity,componentquantityuom,byproductname,byproductquantity,byproductquantityuom,endproductname,endproductquantity,endproductquantityuom,workcentername,workresourcename,processingrate,ratequantityuom,ratetimeuom,unitcost,unitcostuom,fixedtime,fixedtimeuom,fixedcost,lotsize,lotsizeuom,yieldpercentage,notes

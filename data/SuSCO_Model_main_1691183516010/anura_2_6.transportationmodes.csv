@@ -1,0 +1,4 @@
+id,modename,behaviorrule,assetname,status,unitcost,unitcostuom,fixedcost,fixedcostrule,averageshipmentsize,averageshipmentsizeuom,quantitycapacity,quantitycapacityuom,quantityfilllevel,quantityfillleveluom,volumecapacity,volumecapacityuom,volumefilllevel,volumefillleveluom,weightcapacity,weightcapacityuom,weightfilllevel,weightfillleveluom,transporttime,transporttimeuom,modespeed,modespeeduom,notes
+1,Ocean,,,,,,,,,,,,,,,,,,,,,,,,,,
+2,LTL,,,,,,,,,,,,,,,,,,,,,,,,,,
+3,FTL,,,,,,,,,,,,,,,,,,,,,,,,,,

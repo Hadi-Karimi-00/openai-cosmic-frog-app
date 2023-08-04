@@ -1,0 +1,3 @@
+id,riskprofilename,geographicriskweight,userdefinedriskweight,utilizationriskweight,concentrationriskweight,concentrationriskband,sourcecountriskweight,sourcecountriskband,notes
+1,Risk Profile Template Optimization,0.3,0.2,0.2,0.2,Facility and Supplier Concentration Band Template,0.1,Source Count Band Template,""
+2,Risk Profile Template Simulation,0.3,0.2,0.2,0.2,Facility and Supplier Concentration Band Template,0.1,Source Count Band Template,""

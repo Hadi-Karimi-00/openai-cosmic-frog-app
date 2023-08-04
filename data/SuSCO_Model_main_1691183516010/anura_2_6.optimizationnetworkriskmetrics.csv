@@ -1,0 +1,6 @@
+id,scenarioname,networkriskscore,productstockingpointcountrisk,productmakeandsupplycountrisk,transporttimerisk,timetoimportrisk,timetoexportrisk,riskratingname
+107,1. China 2 MFGs Only,4.222850671908,,,8.55712667977,1.333333333333,1.333333333333,OptiRisk
+108,3. All 4 MFGs,4.126358008025,,,8.202654329202,1.356309705392,1.461344549088,OptiRisk
+109,2. Brazil and Vietnam MFG Only,4.18285520661,,,8.098935055515,1.519617885492,1.624652729188,OptiRisk
+110,4. Max Emissions Cap,4.111168908634,,,8.199146138813,1.333333333333,1.43836817703,OptiRisk
+111,Baseline,4.111168908634,,,8.199146138813,1.333333333333,1.43836817703,OptiRisk

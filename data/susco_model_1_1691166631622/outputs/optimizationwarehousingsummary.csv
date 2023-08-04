@@ -1,0 +1,1 @@
+id,scenarioname,periodname,facilityname,productname,inboundhandlingcost,stockingcost,destockingcost,outboundhandlingcost,inboundquantity,stockedquantity,destockedquantity,outboundquantity,quantityuom,inboundvolume,stockedvolume,destockedvolume,outboundvolume,volumeuom,inboundweight,stockedweight,destockedweight,outboundweight,weightuom,latitude,longitude

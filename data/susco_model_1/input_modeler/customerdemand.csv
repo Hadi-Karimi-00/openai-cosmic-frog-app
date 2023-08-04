@@ -1,0 +1,13 @@
+id,customername,productname,productnamegroupbehavior,periodname,quantity,minquantity,maxquantity,quantityuom,status,demandstatus,servicemode,unitprice,unitpriceuom,penaltycost,penaltycostuom,notes
+1,CZ_Seattle,FG_0001,"","",894,"","","",Include,"","","","","","",""
+2,CZ_Pittsburgh,FG_0001,"","",645,"","","",Include,"","","","","","",""
+3,CZ_Raleigh,FG_0001,"","",501,"","","",Include,"","","","","","",""
+4,CZ_Atlanta,FG_0001,"","",808,"","","",Include,"","","","","","",""
+5,CZ_Salt Lake City,FG_0001,"","",628,"","","",Include,"","","","","","",""
+6,CZ_Fresno,FG_0001,"","",645,"","","",Include,"","","","","","",""
+7,CZ_Seattle,FG_0002,"","",505,"","","",Include,"","","","","","",""
+8,CZ_Pittsburgh,FG_0002,"","",729,"","","",Include,"","","","","","",""
+9,CZ_Raleigh,FG_0002,"","",862,"","","",Include,"","","","","","",""
+10,CZ_Atlanta,FG_0002,"","",885,"","","",Include,"","","","","","",""
+11,CZ_Salt Lake City,FG_0002,"","",936,"","","",Include,"","","","","","",""
+12,CZ_Fresno,FG_0002,"","",720,"","","",Include,"","","","","","",""

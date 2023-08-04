@@ -1,0 +1,11 @@
+id,itemname,tablename,action,condition,status,description,tags,notes
+34,Include all 4 MFGs,FlowConstraints,status = 'Include',notes LIKE '%Baseline%',Include,"","",
+35,Exclude Brazil MFG,Facilities,status = 'Exclude',facilityname = 'MFG_Belo Horizonte',Include,,,
+36,Exclude Vietnam MFG,Facilities,status = 'Exclude',facilityname = 'MFG_Ho Chi Minh',Include,,,
+37,Include China MFG,FlowConstraints,status = 'Include',notes LIKE '%China%',Include,"","",
+38,Exclude MFG_Shanghai,Facilities,status = 'Exclude',facilityname = 'MFG_Shanghai',Include,"","",
+39,Exclude MFG_Chengdu,Facilities,status = 'Exclude',facilityname = 'MFG_Chengdu',Include,"","",
+40,Include Vietnam and Brazil,FlowConstraints,status = 'Include',notes LIKE '%Vietnam%',Include,"","",
+41,MFG_Chengdu Prod Constraint,ProductionConstraints,status = 'Include',notes LIKE '%China%',Include,"","",
+42,Include Prod Constraints,ProductionConstraints,status = 'Include',notes LIKE '%All%',Include,"","",
+49,Include CO2 Cap,UserDefinedConstraints,status = 'Include',"",Include,"","",

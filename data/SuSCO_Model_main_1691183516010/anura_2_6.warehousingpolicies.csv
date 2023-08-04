@@ -1,0 +1,3 @@
+id,facilityname,productname,productnamegroupbehavior,status,inboundhandlingcost,inboundhandlingcostuom,stockingunitcost,stockingunitcostuom,stockingprocessname,destockingunitcost,destockingunitcostuom,destockingprocessname,outboundhandlingcost,outboundhandlingcostuom,notes
+3,DC_Detroit,FG_0001,"",Include,500,"","","","","","","",200,"",""
+4,DC_Detroit,FG_0002,"",Include,300,"","","","","","","",100,"",""

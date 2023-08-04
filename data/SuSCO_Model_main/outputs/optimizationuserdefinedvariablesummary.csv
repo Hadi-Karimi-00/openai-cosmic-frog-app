@@ -1,0 +1,11 @@
+id,scenarioname,variablename,variablevalue
+37,1. China 2 MFGs Only,FGProductionEmissions,836341.682407938
+38,1. China 2 MFGs Only,FGTransportEmissions,1142763.1241104663
+39,3. All 4 MFGs,FGProductionEmissions,736341.682407938
+40,3. All 4 MFGs,FGTransportEmissions,933590.9054649322
+41,2. Brazil and Vietnam MFG Only,FGProductionEmissions,597386.91600567
+42,2. Brazil and Vietnam MFG Only,FGTransportEmissions,961519.7852122942
+43,4. Max Emissions Cap,FGProductionEmissions,756341.682407938
+44,4. Max Emissions Cap,FGTransportEmissions,927054.9040598155
+45,Baseline,FGProductionEmissions,756341.682407938
+46,Baseline,FGTransportEmissions,927054.9040598153

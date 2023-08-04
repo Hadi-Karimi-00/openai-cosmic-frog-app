@@ -1,0 +1,7 @@
+id,bomname,productname,producttype,quantity,quantityuom,status,notes
+7,BOM_FG_0001,RM_0001,Component,2,EA,Include,""
+8,BOM_FG_0002,RM_0002,Component,3,EA,Include,""
+9,BOM_FG_0001,Pack_Style_1,Component,2,LB,Include,""
+10,BOM_FG_0002,Pack_Style_2,Component,4,LB,Include,""
+11,BOM_FG_0001,Water_1,Component,5,L,Include,""
+12,BOM_FG_0002,Water_2,Component,8,L,Include,""

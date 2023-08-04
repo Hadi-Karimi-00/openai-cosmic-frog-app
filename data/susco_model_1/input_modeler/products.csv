@@ -1,0 +1,9 @@
+id,productname,status,unitvalue,unitvalueuom,unitprice,unitpriceuom,unitvolume,unitvolumeuom,unitweight,unitweightuom,unitlength,unitwidth,unitheight,dimensionuom,shelflife,shelflifeuom,productbehavior,notes
+1,FG_0001,Include,7500,"","","","","","","","","","","","","","",""
+2,FG_0002,Include,6900,"","","","","","","","","","","","","","",""
+3,RM_0001,Include,734,"","","","","","","","","","","","","","",""
+4,RM_0002,Include,700,"","","","","","","","","","","","","","",""
+5,Pack_Style_1,Include,5,"","","","","","","","","","","","","","",""
+6,Pack_Style_2,Include,10,"","","","","","","","","","","","","","",""
+7,Water_1,Include,20,"","","","","","","","","","","","","","",""
+8,Water_2,Include,50,"","","","","","","","","","","","","","",""

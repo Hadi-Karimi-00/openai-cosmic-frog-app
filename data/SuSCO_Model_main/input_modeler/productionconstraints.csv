@@ -1,0 +1,5 @@
+id,facilityname,facilitynamegroupbehavior,productname,productnamegroupbehavior,periodname,periodnamegroupbehavior,bomname,bomnamegroupbehavior,processname,processnamegroupbehavior,constrainttype,constraintvalue,constraintvalueuom,status,notes
+1,MFG_Belo Horizonte,,"",Aggregate,,,,,,,Max,20000,,,
+2,MFG_Chengdu,,"",Aggregate,,,,,,,Min,25000,,Exclude,China Only
+3,MFG_Ho Chi Minh,,"",Aggregate,,,,,,,Min,5000,,Exclude,All 4 MFGs
+4,MFG_Chengdu,,"",Aggregate,,,,,,,Min,10000,,Exclude,All 4 MFGs

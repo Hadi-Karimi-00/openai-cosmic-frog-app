@@ -1,0 +1,8 @@
+id,itemname,tablename,action,condition,status,description,tags,notes
+1,Increment All Demand,CustomerDemand,quantity = quantity * 1.1,"",Include,"","",template default
+2,Exclude Records With A Condition,Facilities,status = 'Exclude',facilityname = 'Detroit DC',Include,"","",template default
+3,Facility Fixed Cost,GreenfieldSettings,greenfieldfacilityfixedcost = '4500000',"",Include,"","",template default
+4,Cost Per Unit Distance,GreenfieldSettings,customerfulfillmentcost = '0.01',"",Include,"","",template default
+5,No Max Facilities Defined,GreenfieldSettings,maxnumberofnewfacilities = '',"",Include,"","",template default
+6,Exclude Existing Facilities,GreenfieldSettings,excludefacilities = 'True',"",Include,"","",template default
+7,7 Max Facilities Defined,GreenfieldSettings,maxnumberofnewfacilities = '7',"",Include,"","",template default

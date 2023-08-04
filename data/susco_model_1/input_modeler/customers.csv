@@ -1,0 +1,7 @@
+id,customername,status,address,city,region,postalcode,country,latitude,longitude,singlesource,singlesourceorders,singlesourcelineitems,allowbackorders,backordertimelimit,backordertimeuom,allowpartialfillorders,allowpartialfilllineitems,allowdirectship,queuepriority,notes,geographicriskscore,userdefinedriskscore
+1,CZ_Seattle,Include,"",Seattle,Washington,"",USA,47.603832,-122.330062,"","","","","","","","","","","",,
+3,CZ_Raleigh,Include,"",Raleigh,North Carolina,"",USA,35.780398,-78.639099,"","","","","","","","","","","",,
+4,CZ_Atlanta,Include,"",Atlanta,Georgia,"",USA,33.748992,-84.390264,"","","","","","","","","","","",,
+5,CZ_Salt Lake City,Include,"",Salt Lake City,Utah,"",USA,40.75962,-111.886798,"","","","","","","","","","","",,
+6,CZ_Fresno,Include,"",Fresno,California,"",USA,36.739442,-119.784831,"","","","","","","","","","","",,
+2,CZ_Pittsburgh,Include,"",Pittsburgh,Pennsylvania,"",USA,40.441694,-79.990086,"","","","","","","","","","","",,

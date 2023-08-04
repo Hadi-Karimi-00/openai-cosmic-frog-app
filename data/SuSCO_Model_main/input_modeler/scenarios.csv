@@ -1,0 +1,6 @@
+id,scenarioname,status,description,tags,notes,technology
+1,Baseline,Include,"","",template default,NEO
+34,3. All 4 MFGs,Include,"","",,NEO
+36,1. China 2 MFGs Only,Include,"","",,NEO
+37,2. Brazil and Vietnam MFG Only,Include,"","",,NEO
+38,4. Max Emissions Cap,Include,"","",,NEO

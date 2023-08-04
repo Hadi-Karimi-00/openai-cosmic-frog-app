@@ -1,0 +1,41 @@
+id,scenarioname,riskratingname,sitename,sitetype,periodname,utilizationriskscore,throughpututilizationrisk,storageutilizationrisk,workcenterutilizationrisk,latitude,longitude
+1,3. All 4 MFGs,,MFG_Overflow,Facility,,,,,,,
+2,1. China 2 MFGs Only,,MFG_Overflow,Facility,,,,,,,
+3,2. Brazil and Vietnam MFG Only,,MFG_Overflow,Facility,,,,,,,
+5,3. All 4 MFGs,,DC_Detroit,Facility,,,,,,42.33,-83.05
+6,1. China 2 MFGs Only,,DC_Detroit,Facility,,,,,,42.33,-83.05
+7,2. Brazil and Vietnam MFG Only,,DC_Detroit,Facility,,,,,,42.33,-83.05
+9,3. All 4 MFGs,,Port_Long Beach,Facility,,,,,,33.77,-118.19
+10,1. China 2 MFGs Only,,Port_Long Beach,Facility,,,,,,33.77,-118.19
+11,2. Brazil and Vietnam MFG Only,,Port_Long Beach,Facility,,,,,,33.77,-118.19
+13,3. All 4 MFGs,,Port_Boston,Facility,,,,,,42.36,-71.06
+14,1. China 2 MFGs Only,,Port_Boston,Facility,,,,,,42.36,-71.06
+15,2. Brazil and Vietnam MFG Only,,Port_Boston,Facility,,,,,,42.36,-71.06
+17,3. All 4 MFGs,,Port_Hong Kong,Facility,,,,,,22.3,114.17
+18,1. China 2 MFGs Only,,Port_Hong Kong,Facility,,,,,,22.3,114.17
+19,2. Brazil and Vietnam MFG Only,,Port_Hong Kong,Facility,,,,,,22.3,114.17
+21,3. All 4 MFGs,,Port_Kuala Lumpur,Facility,,,,,,3.15,101.69
+22,1. China 2 MFGs Only,,Port_Kuala Lumpur,Facility,,,,,,3.15,101.69
+23,2. Brazil and Vietnam MFG Only,,Port_Kuala Lumpur,Facility,,,,,,3.15,101.69
+25,3. All 4 MFGs,,Port_Recife,Facility,,,,,,-8.06,-34.88
+26,1. China 2 MFGs Only,,Port_Recife,Facility,,,,,,-8.06,-34.88
+27,2. Brazil and Vietnam MFG Only,,Port_Recife,Facility,,,,,,-8.06,-34.88
+29,3. All 4 MFGs,,MFG_Chengdu,Facility,,,,,,30.66,104.06
+30,1. China 2 MFGs Only,,MFG_Chengdu,Facility,,,,,,30.66,104.06
+32,3. All 4 MFGs,,MFG_Shanghai,Facility,,,,,,31.23,121.47
+33,1. China 2 MFGs Only,,MFG_Shanghai,Facility,,,,,,31.23,121.47
+35,3. All 4 MFGs,,MFG_Ho Chi Minh,Facility,,,,,,10.78,106.7
+36,2. Brazil and Vietnam MFG Only,,MFG_Ho Chi Minh,Facility,,,,,,10.78,106.7
+38,3. All 4 MFGs,,MFG_Belo Horizonte,Facility,,,,,,-19.92,-43.95
+39,2. Brazil and Vietnam MFG Only,,MFG_Belo Horizonte,Facility,,,,,,-19.92,-43.95
+40,4. Max Emissions Cap,,DC_Detroit,Facility,,,,,,42.33,-83.05
+41,4. Max Emissions Cap,,MFG_Belo Horizonte,Facility,,,,,,-19.92,-43.95
+42,4. Max Emissions Cap,,MFG_Chengdu,Facility,,,,,,30.66,104.06
+43,4. Max Emissions Cap,,MFG_Ho Chi Minh,Facility,,,,,,10.78,106.7
+44,4. Max Emissions Cap,,MFG_Overflow,Facility,,,,,,,
+45,4. Max Emissions Cap,,MFG_Shanghai,Facility,,,,,,31.23,121.47
+46,4. Max Emissions Cap,,Port_Boston,Facility,,,,,,42.36,-71.06
+47,4. Max Emissions Cap,,Port_Hong Kong,Facility,,,,,,22.3,114.17
+48,4. Max Emissions Cap,,Port_Kuala Lumpur,Facility,,,,,,3.15,101.69
+49,4. Max Emissions Cap,,Port_Long Beach,Facility,,,,,,33.77,-118.19
+50,4. Max Emissions Cap,,Port_Recife,Facility,,,,,,-8.06,-34.88

@@ -1,0 +1,1 @@
+id,shipmentid,lineitemid,sourcename,destinationname,productname,quantity,quantityuom,orderdate,duedate,status,servicemode,allowpartialfillshipment,allowpartialfilllineitems,notes

@@ -1,0 +1,13 @@
+id,originname,originnamegroupbehavior,destinationname,destinationnamegroupbehavior,productname,productnamegroupbehavior,modename,modenamegroupbehavior,periodname,periodnamegroupbehavior,constrainttype,constraintvalue,constraintvalueuom,status,notes
+41,Port_Recife,"",Port_Boston,"","","","","","","",Min,50,"",Exclude,Baseline 4MFG
+40,Port_Kuala Lumpur,"",Port_Long Beach,"","","","","","","",Min,50,"",Exclude,Baseline 4MFG
+39,Port_Hong Kong,"",Port_Long Beach,"","","","","","","",Min,50,"",Exclude,Baseline 4MFG
+42,Port_Long Beach,"",DC_Detroit,"","","","","","","",Min,50,"",Exclude,Baseline 4MFG
+43,Port_Boston,"",DC_Detroit,"","","","","","","",Min,50,"",Exclude,Baseline 4MFG
+38,MFG_Belo Horizonte,"",Port_Recife,"","","","","","","",Min,50,"",Exclude,Baseline 4MFG
+35,MFG_Chengdu,"",Port_Hong Kong,"","",Aggregate,"","","","",Min,50,"",Exclude,Baseline 4MFG
+37,MFG_Ho Chi Minh,"",Port_Kuala Lumpur,"","",Aggregate,"","","","",Min,50,"",Exclude,Baseline 4MFG
+36,MFG_Shanghai,"",Port_Hong Kong,"","",Aggregate,"","","","",Min,50,"",Exclude,Baseline 4MFG
+46,MFG_Ho Chi Minh,"",Port_Kuala Lumpur,"","",Aggregate,"","","","",Min,50,"",Exclude,Brazil and Vietnam Only
+44,MFG_Chengdu,"",Port_Hong Kong,"","",Aggregate,"","","","",Min,50,"",Exclude,China Only
+45,MFG_Shanghai,"",Port_Hong Kong,"","",Aggregate,"","","","",Min,50,"",Exclude,China Only

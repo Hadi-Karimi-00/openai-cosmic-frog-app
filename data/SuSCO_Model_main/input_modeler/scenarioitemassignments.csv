@@ -1,0 +1,11 @@
+id,scenarioname,itemname,itemorder,notes
+34,3. All 4 MFGs,Include all 4 MFGs,1,
+38,2. Brazil and Vietnam MFG Only,Exclude MFG_Shanghai,1,
+39,2. Brazil and Vietnam MFG Only,Exclude MFG_Chengdu,1,
+40,2. Brazil and Vietnam MFG Only,Include Vietnam and Brazil,2,
+35,1. China 2 MFGs Only,Exclude Brazil MFG,1,
+36,1. China 2 MFGs Only,Exclude Vietnam MFG,4,
+37,1. China 2 MFGs Only,Include China MFG,7,
+41,1. China 2 MFGs Only,MFG_Chengdu Prod Constraint,8,
+49,3. All 4 MFGs,Include Prod Constraints,2,
+82,4. Max Emissions Cap,Include CO2 Cap,1,

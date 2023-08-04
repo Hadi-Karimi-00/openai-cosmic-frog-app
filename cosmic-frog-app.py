@@ -17,7 +17,7 @@ import pandas as pd
 from typing import Tuple
 from pathlib import Path
 from tqdm import tqdm
-import PythonAPI_Download_postgres as dl
+import pioneer_api_download_upload as dl
 
 start = dt.datetime.now()
 print('Start: %s' %start)
@@ -34,48 +34,31 @@ SCHEMA = "" # IF YOU LEAVE EMPTY STRING, IT WILL BE THE LATEST VERSION OF THE SC
 #activate an API object
 api = pioneer.Api(appkey=API_Key, un=User_Name, auth_legacy=False)
 
-""" downloading the data model"""
-api.database_schemas()
-db_info = api.database_tables(DB_Name)
-print(db_info['tables'][0])
-tables_list = [i.get('name') for i in db_info['tables']]
-tables_list[1]
-api.database_export(DB_Name, named=tables_list)
-query1 = f"SELECT * FROM anura_2_6.analytics"
-query2 = f"SELECT * FROM anura_2_6.customers"
-e = api.sql_query('My SuSCO Model 1', query2)
-df = pd.DataFrame.from_dict(e)
+# Set locations of model data files ['input_modeler', 'output', 'special_tables']
+directories = dl.Directories(local_directory, DB_Name)
 
-aa = api.wksp_files(user_workspace_selection, ATLAS_directory_path_selection)
-#files = ob.wksp_files(user_workspace_selection, filter=ATLAS_directory_path_selection)
-#connection_string = api.sql_connection_info(DB_Name)
-#print(connection_string)
-constr = dl.get_connection_string(User_Name,API_Key,DB_Name)
+""" 0- initiate an empty model and download anura templates"""
+#db_new = api.database_create(name='my_DB_Via_API',desc="PostGres Database created via pioneer Api")
+#api.database_export(DB_Name,group='tables')
 
-# SQL alchemy engine
-engine = sal.create_engine(constr, pool_timeout=300, max_overflow=-1, pool_size=100, pool_pre_ping=True, pool_recycle=3600, echo=True)
+""" 1- downloading the data model"""
+# Via SQLalchemy engine
+#constr = dl.get_connection_string(User_Name,API_Key,DB_Name)
+#engine = sal.create_engine(constr, pool_timeout=300, max_overflow=-1, pool_size=100, pool_pre_ping=True, pool_recycle=3600, echo=True)
+#conn = engine.connect()
 
+main_db_nm = 'SuSCO_Model_main'
+api.database_export(main_db_nm,group='tables')
 
+""" 2- make changes to data tables"""
+# copied SuSCO_Model_main directory into susco_model_1
 
-print(engine.echo)
-print(engine.driver)
-print(engine.pool)
-print(engine.clear_compiled_cache())
+""" 3- upload modified data"""
+fromdir = local_directory + "\\" + DB_Name
+todir = ATLAS_directory_path_selection
+dl.copy_files_in_folder(api, fromdir, todir, user_workspace_selection)
 
-c = engine.connect()
-engine.raw_connection()
+end = dt.datetime.now()
+print('End: %s' %end)
 
-conn = engine.begin()
-query = sal.text(f"SELECT * FROM anura_2_6.analytics")
-table = pd.read_sql_query(query, con=conn)
-
-
-# Get schema table names
-inspector = sal.inspect(engine)
-print(inspector.get_schema_names())
-if SCHEMA == '':
-    SCHEMA = inspector.default_schema_name
-    print(f'Schema not provided. Using default schema: {SCHEMA}.')
-table_names = inspector.get_table_names(schema=SCHEMA)
-
-print(table_names)
+print("It took: %s" %(end - start))

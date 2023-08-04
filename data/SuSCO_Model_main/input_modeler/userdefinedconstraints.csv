@@ -1,0 +1,2 @@
+id,constraintname,variablename,constrainttype,constraintvalue,status,notes
+1,MaxFGTransportEmissions,FGTransportEmissions,Max,930000,Exclude,""

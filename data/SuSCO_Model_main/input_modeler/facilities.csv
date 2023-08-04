@@ -1,0 +1,12 @@
+id,facilityname,status,facilitystatus,initialstate,organization,address,city,region,postalcode,country,latitude,longitude,fixedstartupcost,fixedoperatingcost,fixedclosingcost,storagecapacity,storagecapacityuom,throughputcapacity,throughputcapacityuom,singlesource,singlesourceorders,singlesourcelineitems,allowbackorders,backordertimelimit,backordertimeuom,allowpartialfillorders,allowpartialfilllineitems,operatingschedule,operatingcalendar,queuepriority,notes,throughputcapacityperiod,throughputcapacityperioduom,geographicriskscore,userdefinedriskscore
+1,DC_Detroit,Include,"","","","",Detroit,Michigan,"",USA,42.331551,-83.04664,"","","","","","","","","","","","","","","","","","","",,,,
+2,Port_Boston,Include,"","","","",Boston,Massachusetts ,"",USA,42.360253,-71.058291,"","","","","","","","","","","","","","","","","","","",,,,
+3,Port_Long Beach,Include,"","","","",Long Beach,California,"",USA,33.769016,-118.191604,"","","","","","","","","","","","","","","","","","","",,,,
+4,Port_Hong Kong,Include,"","","","",Hong Kong,"","",China,22.299653499999998,114.1675485,"","","","","","","","","","","","","","","","","","","",,,,
+5,Port_Kuala Lumpur,Include,"","","","",Kuala Lumpur,"","",Malaysia,3.1516964,101.6942371,"","","","","","","","","","","","","","","","","","","",,,,
+6,Port_Recife,Include,"","","","",Recife,"","",Brazil,-8.0642,-34.8782,"","","","","","","","","","","","","","","","","","","",,,,
+8,MFG_Shanghai,Include,"","","","",Shanghai,"","",China,31.2322758,121.4692071,"",4500000,"","","","","","","","","","","","","","","","","",,,,
+7,MFG_Chengdu,Include,"","","","",Chengdu,"","",China,30.659863,104.063372,"",4500000,"","","","","","","","","","","","","","","","","",,,,
+9,MFG_Ho Chi Minh,Include,"","","","",Ho Chi Minh City,"","",Vietnam,10.7758439,106.7017555,"",5000000,"","","","","","","","","","","","","","","","","",,,,
+10,MFG_Belo Horizonte,Include,"","","","",Belo Horizonte,"","",Brazil,-19.9227,-43.9451,"",5000000,"","","","","","","","","","","","","","","","","",,,,
+11,MFG_Overflow,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

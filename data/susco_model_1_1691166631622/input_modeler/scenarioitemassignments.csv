@@ -1,0 +1,11 @@
+id,scenarioname,itemname,itemorder,notes
+1,Example Exclusion,Exclude Records With A Condition,1,template default
+2,Example Increment,Increment All Demand,1,template default
+3,Greenfield Cost Optimized,Facility Fixed Cost,1,template default
+4,Greenfield Cost Optimized,Cost Per Unit Distance,2,template default
+5,Greenfield Cost Optimized,No Max Facilities Defined,3,template default
+6,Greenfield Cost Optimized,Exclude Existing Facilities,4,template default
+7,Greenfield 7 Cost Optimized Facilities,Facility Fixed Cost,1,template default
+8,Greenfield 7 Cost Optimized Facilities,Cost Per Unit Distance,2,template default
+9,Greenfield 7 Cost Optimized Facilities,Exclude Existing Facilities,4,template default
+10,Greenfield 7 Cost Optimized Facilities,7 Max Facilities Defined,3,template default

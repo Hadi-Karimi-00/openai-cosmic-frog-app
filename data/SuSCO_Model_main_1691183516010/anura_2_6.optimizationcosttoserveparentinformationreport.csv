@@ -1,0 +1,284 @@
+id,scenarioname,currentnodename,parentnodename,parentnodecost,quantity,ratio
+1241,Baseline,MFG_Shanghai|RM_0001|SinglePeriod,MFG_Shanghai|RM_0001|SinglePeriod|production_bom,0.0,514.880646826574,100.0
+1242,Baseline,MFG_Belo Horizonte|RM_0001|SinglePeriod,MFG_Belo Horizonte|RM_0001|SinglePeriod|production_bom,0.0,7727.119353173426,100.0
+1243,Baseline,MFG_Shanghai|RM_0002|SinglePeriod,MFG_Shanghai|RM_0002|SinglePeriod|production_bom,0.0,13911.0,100.0
+1244,Baseline,MFG_Shanghai|Pack_Style_1|SinglePeriod,MFG_Shanghai|Pack_Style_1|SinglePeriod|production_bom,0.0,514.880646826574,100.0
+1245,Baseline,MFG_Belo Horizonte|Pack_Style_1|SinglePeriod,MFG_Belo Horizonte|Pack_Style_1|SinglePeriod|production_bom,0.0,7727.119353173426,100.0
+1246,Baseline,MFG_Shanghai|Pack_Style_2|SinglePeriod,MFG_Shanghai|Pack_Style_2|SinglePeriod|production_bom,0.0,18548.0,100.0
+1247,Baseline,MFG_Shanghai|Water_1|SinglePeriod,MFG_Shanghai|Water_1|SinglePeriod|production_bom,0.0,45.457096468563,100.0
+1248,Baseline,MFG_Belo Horizonte|Water_1|SinglePeriod,MFG_Belo Horizonte|Water_1|SinglePeriod|production_bom,0.0,682.201617066437,100.0
+1249,Baseline,MFG_Shanghai|Water_2|SinglePeriod,MFG_Shanghai|Water_2|SinglePeriod|production_bom,0.0,1310.032887032,100.0
+1250,Baseline,UnassignableEnd|NA|NA,Unassignable|NA|NA,0.0,1.0,100.0
+1251,Baseline,MFG_Shanghai|FG_0001|SinglePeriod|production_bom,MFG_Shanghai|RM_0001|SinglePeriod,0.0,514.880646826574,47.8861458804
+1252,Baseline,MFG_Shanghai|FG_0001|SinglePeriod|production_bom,MFG_Shanghai|Pack_Style_1|SinglePeriod,0.0,514.880646826574,47.8861458804
+1253,Baseline,MFG_Shanghai|FG_0001|SinglePeriod|production_bom,MFG_Shanghai|Water_1|SinglePeriod,0.0,45.457096468563,4.227708239199
+1254,Baseline,MFG_Belo Horizonte|FG_0001|SinglePeriod|production_bom,MFG_Belo Horizonte|RM_0001|SinglePeriod,0.0,7727.119353173426,47.8861458804
+1255,Baseline,MFG_Belo Horizonte|FG_0001|SinglePeriod|production_bom,MFG_Belo Horizonte|Pack_Style_1|SinglePeriod,0.0,7727.119353173426,47.8861458804
+1256,Baseline,MFG_Belo Horizonte|FG_0001|SinglePeriod|production_bom,MFG_Belo Horizonte|Water_1|SinglePeriod,0.0,682.201617066437,4.227708239199
+1257,Baseline,MFG_Shanghai|FG_0002|SinglePeriod|production_bom,MFG_Shanghai|RM_0002|SinglePeriod,0.0,13911.0,41.194546632522
+1258,Baseline,MFG_Shanghai|FG_0002|SinglePeriod|production_bom,MFG_Shanghai|Pack_Style_2|SinglePeriod,0.0,18548.0,54.926062176696
+1259,Baseline,MFG_Shanghai|FG_0002|SinglePeriod|production_bom,MFG_Shanghai|Water_2|SinglePeriod,0.0,1310.032887032,3.879391190783
+1260,Baseline,MFG_Shanghai|FG_0001|SinglePeriod,MFG_Shanghai|FG_0001|SinglePeriod|production_bom,0.0,257.440323413287,100.0
+1261,Baseline,MFG_Belo Horizonte|FG_0001|SinglePeriod,MFG_Belo Horizonte|FG_0001|SinglePeriod|production_bom,0.0,3863.559676586713,100.0
+1262,Baseline,MFG_Shanghai|FG_0002|SinglePeriod,MFG_Shanghai|FG_0002|SinglePeriod|production_bom,0.0,4637.0,100.0
+1263,Baseline,MFG_Shanghai|FG_0001|SinglePeriod|FC_end,MFG_Shanghai|FG_0001|SinglePeriod,3400.0,257.440323413287,100.0
+1264,Baseline,MFG_Belo Horizonte|FG_0001|SinglePeriod|FC_end,MFG_Belo Horizonte|FG_0001|SinglePeriod,4000.0,3863.559676586713,100.0
+1265,Baseline,MFG_Shanghai|FG_0002|SinglePeriod|FC_end,MFG_Shanghai|FG_0002|SinglePeriod,4250.0,4637.0,100.0
+1266,Baseline,Port_Hong Kong|FG_0001|SinglePeriod,MFG_Shanghai|FG_0001|SinglePeriod|FC_end,4319.410535761072,257.440323413287,100.0
+1267,Baseline,Port_Recife|FG_0001|SinglePeriod,MFG_Belo Horizonte|FG_0001|SinglePeriod|FC_end,5294.14333375,3863.559676586713,100.0
+1268,Baseline,Port_Hong Kong|FG_0002|SinglePeriod,MFG_Shanghai|FG_0002|SinglePeriod|FC_end,5169.410535761072,4637.0,100.0
+1269,Baseline,Port_Hong Kong|FG_0001|SinglePeriod|FC_end,Port_Hong Kong|FG_0001|SinglePeriod,5659.468149201348,257.440323413287,100.0
+1270,Baseline,Port_Recife|FG_0001|SinglePeriod|FC_end,Port_Recife|FG_0001|SinglePeriod,7083.226035507661,3863.559676586713,100.0
+1271,Baseline,Port_Hong Kong|FG_0002|SinglePeriod|FC_end,Port_Hong Kong|FG_0002|SinglePeriod,6509.468149201348,4637.0,100.0
+1272,Baseline,Port_Long Beach|FG_0001|SinglePeriod,Port_Hong Kong|FG_0001|SinglePeriod|FC_end,5659.468149201348,257.440323413287,100.0
+1273,Baseline,Port_Boston|FG_0001|SinglePeriod,Port_Recife|FG_0001|SinglePeriod|FC_end,7083.226035507661,3863.559676586713,100.0
+1274,Baseline,Port_Long Beach|FG_0002|SinglePeriod,Port_Hong Kong|FG_0002|SinglePeriod|FC_end,6509.468149201348,4637.0,100.0
+1275,Baseline,Port_Long Beach|FG_0001|SinglePeriod|FC_end,Port_Long Beach|FG_0001|SinglePeriod,6083.866940356158,257.440323413287,100.0
+1276,Baseline,Port_Boston|FG_0001|SinglePeriod|FC_end,Port_Boston|FG_0001|SinglePeriod,7326.808047143246,3863.559676586713,100.0
+1277,Baseline,Port_Long Beach|FG_0002|SinglePeriod|FC_end,Port_Long Beach|FG_0002|SinglePeriod,6933.866940356158,4637.0,100.0
+1278,Baseline,DC_Detroit|FG_0001|SinglePeriod,Port_Long Beach|FG_0001|SinglePeriod|FC_end,6083.866940356158,257.440323413287,6.247035268461
+1279,Baseline,DC_Detroit|FG_0001|SinglePeriod,Port_Boston|FG_0001|SinglePeriod|FC_end,7326.808047143246,3863.559676586713,93.752964731539
+1280,Baseline,DC_Detroit|FG_0002|SinglePeriod,Port_Long Beach|FG_0002|SinglePeriod|FC_end,6933.866940356158,4637.0,100.0
+1281,Baseline,DC_Detroit|FG_0001|SinglePeriod|FC_end,DC_Detroit|FG_0001|SinglePeriod,8973.320806839378,4121.0,100.0
+1282,Baseline,DC_Detroit|FG_0002|SinglePeriod|FC_end,DC_Detroit|FG_0002|SinglePeriod,10718.667997782775,4637.0,100.0
+1283,Baseline,CZ_Seattle|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,8973.320806839378,894.0,100.0
+1284,Baseline,CZ_Pittsburgh|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,8973.320806839378,645.0,100.0
+1285,Baseline,CZ_Raleigh|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,8973.320806839378,501.0,100.0
+1286,Baseline,CZ_Atlanta|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,8973.320806839378,808.0,100.0
+1287,Baseline,CZ_Salt Lake City|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,8973.320806839378,628.0,100.0
+1288,Baseline,CZ_Fresno|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,8973.320806839378,645.0,100.0
+1289,Baseline,CZ_Seattle|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,10718.667997782775,505.0,100.0
+1290,Baseline,CZ_Pittsburgh|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,10718.667997782775,729.0,100.0
+1291,Baseline,CZ_Raleigh|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,10718.667997782775,862.0,100.0
+1292,Baseline,CZ_Atlanta|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,10718.667997782775,885.0,100.0
+1293,Baseline,CZ_Salt Lake City|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,10718.667997782775,936.0,100.0
+1294,Baseline,CZ_Fresno|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,10718.667997782775,720.0,100.0
+1012,1. China 2 MFGs Only,MFG_Shanghai|RM_0001|SinglePeriod,MFG_Shanghai|RM_0001|SinglePeriod|production_bom,0.0,8242.0,100.0
+1013,1. China 2 MFGs Only,MFG_Chengdu|RM_0002|SinglePeriod,MFG_Chengdu|RM_0002|SinglePeriod|production_bom,0.0,9055.217992000107,100.0
+1014,1. China 2 MFGs Only,MFG_Shanghai|RM_0002|SinglePeriod,MFG_Shanghai|RM_0002|SinglePeriod|production_bom,0.0,4855.782007999893,100.0
+1015,1. China 2 MFGs Only,MFG_Shanghai|Pack_Style_1|SinglePeriod,MFG_Shanghai|Pack_Style_1|SinglePeriod|production_bom,0.0,8242.0,100.0
+1016,1. China 2 MFGs Only,MFG_Chengdu|Pack_Style_2|SinglePeriod,MFG_Chengdu|Pack_Style_2|SinglePeriod|production_bom,0.0,12073.623989333477,100.0
+1017,1. China 2 MFGs Only,MFG_Shanghai|Pack_Style_2|SinglePeriod,MFG_Shanghai|Pack_Style_2|SinglePeriod|production_bom,0.0,6474.376010666523,100.0
+1018,1. China 2 MFGs Only,MFG_Shanghai|Water_1|SinglePeriod,MFG_Shanghai|Water_1|SinglePeriod|production_bom,0.0,727.658713535,100.0
+1019,1. China 2 MFGs Only,MFG_Chengdu|Water_2|SinglePeriod,MFG_Chengdu|Water_2|SinglePeriod|production_bom,0.0,852.752021333047,100.0
+1020,1. China 2 MFGs Only,MFG_Shanghai|Water_2|SinglePeriod,MFG_Shanghai|Water_2|SinglePeriod|production_bom,0.0,457.280865698953,100.0
+1021,1. China 2 MFGs Only,MFG_Shanghai|FG_0001|SinglePeriod|production_bom,MFG_Shanghai|RM_0001|SinglePeriod,0.0,8242.0,47.8861458804
+1022,1. China 2 MFGs Only,MFG_Shanghai|FG_0001|SinglePeriod|production_bom,MFG_Shanghai|Pack_Style_1|SinglePeriod,0.0,8242.0,47.8861458804
+1023,1. China 2 MFGs Only,MFG_Shanghai|FG_0001|SinglePeriod|production_bom,MFG_Shanghai|Water_1|SinglePeriod,0.0,727.658713535,4.227708239199
+1024,1. China 2 MFGs Only,MFG_Chengdu|FG_0002|SinglePeriod|production_bom,MFG_Chengdu|RM_0002|SinglePeriod,0.0,9055.217992000107,41.194546632522
+1025,1. China 2 MFGs Only,MFG_Chengdu|FG_0002|SinglePeriod|production_bom,MFG_Chengdu|Pack_Style_2|SinglePeriod,0.0,12073.623989333477,54.926062176696
+1026,1. China 2 MFGs Only,MFG_Chengdu|FG_0002|SinglePeriod|production_bom,MFG_Chengdu|Water_2|SinglePeriod,0.0,852.752021333047,3.879391190783
+1027,1. China 2 MFGs Only,MFG_Shanghai|FG_0002|SinglePeriod|production_bom,MFG_Shanghai|RM_0002|SinglePeriod,0.0,4855.782007999893,41.194546632522
+1028,1. China 2 MFGs Only,MFG_Shanghai|FG_0002|SinglePeriod|production_bom,MFG_Shanghai|Pack_Style_2|SinglePeriod,0.0,6474.376010666523,54.926062176696
+1029,1. China 2 MFGs Only,MFG_Shanghai|FG_0002|SinglePeriod|production_bom,MFG_Shanghai|Water_2|SinglePeriod,0.0,457.280865698953,3.879391190783
+1030,1. China 2 MFGs Only,MFG_Shanghai|FG_0001|SinglePeriod,MFG_Shanghai|FG_0001|SinglePeriod|production_bom,0.0,4121.0,100.0
+1031,1. China 2 MFGs Only,MFG_Chengdu|FG_0002|SinglePeriod,MFG_Chengdu|FG_0002|SinglePeriod|production_bom,0.0,3018.405997333369,100.0
+1032,1. China 2 MFGs Only,MFG_Shanghai|FG_0002|SinglePeriod,MFG_Shanghai|FG_0002|SinglePeriod|production_bom,0.0,1618.594002666631,100.0
+1033,1. China 2 MFGs Only,MFG_Shanghai|FG_0001|SinglePeriod|FC_end,MFG_Shanghai|FG_0001|SinglePeriod,3400.0,4121.0,100.0
+1034,1. China 2 MFGs Only,MFG_Chengdu|FG_0002|SinglePeriod|FC_end,MFG_Chengdu|FG_0002|SinglePeriod,4250.0,3018.405997333369,100.0
+1035,1. China 2 MFGs Only,MFG_Shanghai|FG_0002|SinglePeriod|FC_end,MFG_Shanghai|FG_0002|SinglePeriod,4250.0,1618.594002666631,100.0
+1036,1. China 2 MFGs Only,Port_Hong Kong|FG_0001|SinglePeriod,MFG_Shanghai|FG_0001|SinglePeriod|FC_end,4184.02758068067,4121.0,100.0
+1037,1. China 2 MFGs Only,Port_Hong Kong|FG_0002|SinglePeriod,MFG_Chengdu|FG_0002|SinglePeriod|FC_end,5740.85312048,3018.405997333369,65.093939989937
+1038,1. China 2 MFGs Only,Port_Hong Kong|FG_0002|SinglePeriod,MFG_Shanghai|FG_0002|SinglePeriod|FC_end,5034.027580680669,1618.594002666631,34.906060010063
+1039,1. China 2 MFGs Only,Port_Hong Kong|FG_0001|SinglePeriod|FC_end,Port_Hong Kong|FG_0001|SinglePeriod,5524.085194120946,4121.0,100.0
+1040,1. China 2 MFGs Only,Port_Hong Kong|FG_0002|SinglePeriod|FC_end,Port_Hong Kong|FG_0002|SinglePeriod,6933.089060496423,4637.0,100.0
+1041,1. China 2 MFGs Only,Port_Long Beach|FG_0001|SinglePeriod,Port_Hong Kong|FG_0001|SinglePeriod|FC_end,5524.085194120946,4121.0,100.0
+1042,1. China 2 MFGs Only,Port_Long Beach|FG_0002|SinglePeriod,Port_Hong Kong|FG_0002|SinglePeriod|FC_end,6933.089060496423,4637.0,100.0
+1043,1. China 2 MFGs Only,Port_Long Beach|FG_0001|SinglePeriod|FC_end,Port_Long Beach|FG_0001|SinglePeriod,5948.483985275756,4121.0,100.0
+1044,1. China 2 MFGs Only,Port_Long Beach|FG_0002|SinglePeriod|FC_end,Port_Long Beach|FG_0002|SinglePeriod,7357.487851651234,4637.0,100.0
+1045,1. China 2 MFGs Only,DC_Detroit|FG_0001|SinglePeriod,Port_Long Beach|FG_0001|SinglePeriod|FC_end,5948.483985275756,4121.0,100.0
+1046,1. China 2 MFGs Only,DC_Detroit|FG_0002|SinglePeriod,Port_Long Beach|FG_0002|SinglePeriod|FC_end,7357.487851651234,4637.0,100.0
+1047,1. China 2 MFGs Only,DC_Detroit|FG_0001|SinglePeriod|FC_end,DC_Detroit|FG_0001|SinglePeriod,9933.285042702373,4121.0,100.0
+1048,1. China 2 MFGs Only,DC_Detroit|FG_0002|SinglePeriod|FC_end,DC_Detroit|FG_0002|SinglePeriod,11142.288909077852,4637.0,100.0
+1049,1. China 2 MFGs Only,CZ_Seattle|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9933.285042702373,894.0,100.0
+1050,1. China 2 MFGs Only,CZ_Pittsburgh|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9933.285042702373,645.0,100.0
+1051,1. China 2 MFGs Only,CZ_Raleigh|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9933.285042702373,501.0,100.0
+1052,1. China 2 MFGs Only,CZ_Atlanta|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9933.285042702373,808.0,100.0
+1053,1. China 2 MFGs Only,CZ_Salt Lake City|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9933.285042702373,628.0,100.0
+1054,1. China 2 MFGs Only,CZ_Fresno|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9933.285042702373,645.0,100.0
+1055,1. China 2 MFGs Only,CZ_Seattle|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,11142.288909077852,505.0,100.0
+1056,1. China 2 MFGs Only,CZ_Pittsburgh|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,11142.288909077852,729.0,100.0
+1057,1. China 2 MFGs Only,CZ_Raleigh|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,11142.288909077852,862.0,100.0
+1058,1. China 2 MFGs Only,CZ_Atlanta|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,11142.288909077852,885.0,100.0
+1059,1. China 2 MFGs Only,CZ_Salt Lake City|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,11142.288909077852,936.0,100.0
+1060,1. China 2 MFGs Only,CZ_Fresno|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,11142.288909077852,720.0,100.0
+1061,3. All 4 MFGs,MFG_Shanghai|RM_0001|SinglePeriod,MFG_Shanghai|RM_0001|SinglePeriod|production_bom,0.0,514.880646826574,100.0
+1062,3. All 4 MFGs,MFG_Belo Horizonte|RM_0001|SinglePeriod,MFG_Belo Horizonte|RM_0001|SinglePeriod|production_bom,0.0,7727.119353173426,100.0
+1063,3. All 4 MFGs,MFG_Chengdu|RM_0002|SinglePeriod,MFG_Chengdu|RM_0002|SinglePeriod|production_bom,0.0,3622.087196800044,100.0
+1064,3. All 4 MFGs,MFG_Shanghai|RM_0002|SinglePeriod,MFG_Shanghai|RM_0002|SinglePeriod|production_bom,0.0,8477.869204799936,100.0
+1065,3. All 4 MFGs,MFG_Ho Chi Minh|RM_0002|SinglePeriod,MFG_Ho Chi Minh|RM_0002|SinglePeriod|production_bom,0.0,1811.043598400022,100.0
+1066,3. All 4 MFGs,MFG_Shanghai|Pack_Style_1|SinglePeriod,MFG_Shanghai|Pack_Style_1|SinglePeriod|production_bom,0.0,514.880646826574,100.0
+1067,3. All 4 MFGs,MFG_Belo Horizonte|Pack_Style_1|SinglePeriod,MFG_Belo Horizonte|Pack_Style_1|SinglePeriod|production_bom,0.0,7727.119353173426,100.0
+1068,3. All 4 MFGs,MFG_Chengdu|Pack_Style_2|SinglePeriod,MFG_Chengdu|Pack_Style_2|SinglePeriod|production_bom,0.0,4829.449595733391,100.0
+1069,3. All 4 MFGs,MFG_Shanghai|Pack_Style_2|SinglePeriod,MFG_Shanghai|Pack_Style_2|SinglePeriod|production_bom,0.0,11303.825606399914,100.0
+1070,3. All 4 MFGs,MFG_Ho Chi Minh|Pack_Style_2|SinglePeriod,MFG_Ho Chi Minh|Pack_Style_2|SinglePeriod|production_bom,0.0,2414.724797866696,100.0
+1071,3. All 4 MFGs,MFG_Shanghai|Water_1|SinglePeriod,MFG_Shanghai|Water_1|SinglePeriod|production_bom,0.0,45.457096468563,100.0
+1072,3. All 4 MFGs,MFG_Belo Horizonte|Water_1|SinglePeriod,MFG_Belo Horizonte|Water_1|SinglePeriod|production_bom,0.0,682.201617066437,100.0
+1073,3. All 4 MFGs,MFG_Chengdu|Water_2|SinglePeriod,MFG_Chengdu|Water_2|SinglePeriod|production_bom,0.0,341.100808533219,100.0
+1074,3. All 4 MFGs,MFG_Shanghai|Water_2|SinglePeriod,MFG_Shanghai|Water_2|SinglePeriod|production_bom,0.0,798.381674232172,100.0
+1075,3. All 4 MFGs,MFG_Ho Chi Minh|Water_2|SinglePeriod,MFG_Ho Chi Minh|Water_2|SinglePeriod|production_bom,0.0,170.550404266609,100.0
+1076,3. All 4 MFGs,MFG_Shanghai|FG_0001|SinglePeriod|production_bom,MFG_Shanghai|RM_0001|SinglePeriod,0.0,514.880646826574,47.8861458804
+1077,3. All 4 MFGs,MFG_Shanghai|FG_0001|SinglePeriod|production_bom,MFG_Shanghai|Pack_Style_1|SinglePeriod,0.0,514.880646826574,47.8861458804
+1078,3. All 4 MFGs,MFG_Shanghai|FG_0001|SinglePeriod|production_bom,MFG_Shanghai|Water_1|SinglePeriod,0.0,45.457096468563,4.227708239199
+1079,3. All 4 MFGs,MFG_Belo Horizonte|FG_0001|SinglePeriod|production_bom,MFG_Belo Horizonte|RM_0001|SinglePeriod,0.0,7727.119353173426,47.8861458804
+1080,3. All 4 MFGs,MFG_Belo Horizonte|FG_0001|SinglePeriod|production_bom,MFG_Belo Horizonte|Pack_Style_1|SinglePeriod,0.0,7727.119353173426,47.8861458804
+1081,3. All 4 MFGs,MFG_Belo Horizonte|FG_0001|SinglePeriod|production_bom,MFG_Belo Horizonte|Water_1|SinglePeriod,0.0,682.201617066437,4.227708239199
+1082,3. All 4 MFGs,MFG_Chengdu|FG_0002|SinglePeriod|production_bom,MFG_Chengdu|RM_0002|SinglePeriod,0.0,3622.087196800044,41.194546632522
+1083,3. All 4 MFGs,MFG_Chengdu|FG_0002|SinglePeriod|production_bom,MFG_Chengdu|Pack_Style_2|SinglePeriod,0.0,4829.449595733391,54.926062176696
+1084,3. All 4 MFGs,MFG_Chengdu|FG_0002|SinglePeriod|production_bom,MFG_Chengdu|Water_2|SinglePeriod,0.0,341.100808533219,3.879391190783
+1085,3. All 4 MFGs,MFG_Shanghai|FG_0002|SinglePeriod|production_bom,MFG_Shanghai|RM_0002|SinglePeriod,0.0,8477.869204799936,41.194546632522
+1086,3. All 4 MFGs,MFG_Shanghai|FG_0002|SinglePeriod|production_bom,MFG_Shanghai|Pack_Style_2|SinglePeriod,0.0,11303.825606399914,54.926062176696
+1087,3. All 4 MFGs,MFG_Shanghai|FG_0002|SinglePeriod|production_bom,MFG_Shanghai|Water_2|SinglePeriod,0.0,798.381674232172,3.879391190783
+1088,3. All 4 MFGs,MFG_Ho Chi Minh|FG_0002|SinglePeriod|production_bom,MFG_Ho Chi Minh|RM_0002|SinglePeriod,0.0,1811.043598400022,41.194546632522
+1089,3. All 4 MFGs,MFG_Ho Chi Minh|FG_0002|SinglePeriod|production_bom,MFG_Ho Chi Minh|Pack_Style_2|SinglePeriod,0.0,2414.724797866696,54.926062176696
+1090,3. All 4 MFGs,MFG_Ho Chi Minh|FG_0002|SinglePeriod|production_bom,MFG_Ho Chi Minh|Water_2|SinglePeriod,0.0,170.550404266609,3.879391190783
+1091,3. All 4 MFGs,MFG_Shanghai|FG_0001|SinglePeriod,MFG_Shanghai|FG_0001|SinglePeriod|production_bom,0.0,257.440323413287,100.0
+1092,3. All 4 MFGs,MFG_Belo Horizonte|FG_0001|SinglePeriod,MFG_Belo Horizonte|FG_0001|SinglePeriod|production_bom,0.0,3863.559676586713,100.0
+1093,3. All 4 MFGs,MFG_Chengdu|FG_0002|SinglePeriod,MFG_Chengdu|FG_0002|SinglePeriod|production_bom,0.0,1207.362398933348,100.0
+1094,3. All 4 MFGs,MFG_Shanghai|FG_0002|SinglePeriod,MFG_Shanghai|FG_0002|SinglePeriod|production_bom,0.0,2825.956401599978,100.0
+1095,3. All 4 MFGs,MFG_Ho Chi Minh|FG_0002|SinglePeriod,MFG_Ho Chi Minh|FG_0002|SinglePeriod|production_bom,0.0,603.681199466674,100.0
+1096,3. All 4 MFGs,MFG_Shanghai|FG_0001|SinglePeriod|FC_end,MFG_Shanghai|FG_0001|SinglePeriod,3400.0,257.440323413287,100.0
+1097,3. All 4 MFGs,MFG_Belo Horizonte|FG_0001|SinglePeriod|FC_end,MFG_Belo Horizonte|FG_0001|SinglePeriod,4000.0,3863.559676586713,100.0
+1098,3. All 4 MFGs,MFG_Chengdu|FG_0002|SinglePeriod|FC_end,MFG_Chengdu|FG_0002|SinglePeriod,4250.0,1207.362398933348,100.0
+1099,3. All 4 MFGs,MFG_Shanghai|FG_0002|SinglePeriod|FC_end,MFG_Shanghai|FG_0002|SinglePeriod,4250.0,2825.956401599978,100.0
+1100,3. All 4 MFGs,MFG_Ho Chi Minh|FG_0002|SinglePeriod|FC_end,MFG_Ho Chi Minh|FG_0002|SinglePeriod,5000.0,603.681199466674,100.0
+1101,3. All 4 MFGs,Port_Hong Kong|FG_0001|SinglePeriod,MFG_Shanghai|FG_0001|SinglePeriod|FC_end,4859.429454372479,257.440323413287,100.0
+1102,3. All 4 MFGs,Port_Recife|FG_0001|SinglePeriod,MFG_Belo Horizonte|FG_0001|SinglePeriod|FC_end,5294.14333375,3863.559676586713,100.0
+1103,3. All 4 MFGs,Port_Hong Kong|FG_0002|SinglePeriod,MFG_Chengdu|FG_0002|SinglePeriod|FC_end,7977.132801199999,1207.362398933348,29.934712792197
+1104,3. All 4 MFGs,Port_Hong Kong|FG_0002|SinglePeriod,MFG_Shanghai|FG_0002|SinglePeriod|FC_end,5709.429454372479,2825.956401599978,70.065287207803
+1105,3. All 4 MFGs,Port_Kuala Lumpur|FG_0002|SinglePeriod,MFG_Ho Chi Minh|FG_0002|SinglePeriod|FC_end,13282.517335999997,603.681199466674,100.0
+1106,3. All 4 MFGs,Port_Hong Kong|FG_0001|SinglePeriod|FC_end,Port_Hong Kong|FG_0001|SinglePeriod,6199.487067812755,257.440323413287,100.0
+1107,3. All 4 MFGs,Port_Recife|FG_0001|SinglePeriod|FC_end,Port_Recife|FG_0001|SinglePeriod,7083.226035507661,3863.559676586713,100.0
+1108,3. All 4 MFGs,Port_Hong Kong|FG_0002|SinglePeriod|FC_end,Port_Hong Kong|FG_0002|SinglePeriod,7773.800143313338,4033.318800533326,100.0
+1109,3. All 4 MFGs,Port_Kuala Lumpur|FG_0002|SinglePeriod|FC_end,Port_Kuala Lumpur|FG_0002|SinglePeriod,14385.878582832494,603.681199466674,100.0
+1110,3. All 4 MFGs,Port_Long Beach|FG_0001|SinglePeriod,Port_Hong Kong|FG_0001|SinglePeriod|FC_end,6199.487067812755,257.440323413287,100.0
+1111,3. All 4 MFGs,Port_Boston|FG_0001|SinglePeriod,Port_Recife|FG_0001|SinglePeriod|FC_end,7083.226035507661,3863.559676586713,100.0
+1112,3. All 4 MFGs,Port_Long Beach|FG_0002|SinglePeriod,Port_Hong Kong|FG_0002|SinglePeriod|FC_end,7773.800143313338,4033.318800533326,86.981212002013
+1113,3. All 4 MFGs,Port_Long Beach|FG_0002|SinglePeriod,Port_Kuala Lumpur|FG_0002|SinglePeriod|FC_end,14385.878582832494,603.681199466674,13.018787997987
+1114,3. All 4 MFGs,Port_Long Beach|FG_0001|SinglePeriod|FC_end,Port_Long Beach|FG_0001|SinglePeriod,6623.885858967566,257.440323413287,100.0
+1115,3. All 4 MFGs,Port_Boston|FG_0001|SinglePeriod|FC_end,Port_Boston|FG_0001|SinglePeriod,7326.808047143246,3863.559676586713,100.0
+1116,3. All 4 MFGs,Port_Long Beach|FG_0002|SinglePeriod|FC_end,Port_Long Beach|FG_0002|SinglePeriod,9070.760208531017,4637.0,100.0
+1117,3. All 4 MFGs,DC_Detroit|FG_0001|SinglePeriod,Port_Long Beach|FG_0001|SinglePeriod|FC_end,6623.885858967566,257.440323413287,6.247035268461
+1118,3. All 4 MFGs,DC_Detroit|FG_0001|SinglePeriod,Port_Boston|FG_0001|SinglePeriod|FC_end,7326.808047143246,3863.559676586713,93.752964731539
+1119,3. All 4 MFGs,DC_Detroit|FG_0002|SinglePeriod,Port_Long Beach|FG_0002|SinglePeriod|FC_end,9070.760208531017,4637.0,100.0
+1120,3. All 4 MFGs,DC_Detroit|FG_0001|SinglePeriod|FC_end,DC_Detroit|FG_0001|SinglePeriod,9007.055979141398,4121.0,100.0
+1121,3. All 4 MFGs,DC_Detroit|FG_0002|SinglePeriod|FC_end,DC_Detroit|FG_0002|SinglePeriod,12855.561265957636,4637.0,100.0
+1122,3. All 4 MFGs,CZ_Seattle|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9007.055979141398,894.0,100.0
+1123,3. All 4 MFGs,CZ_Pittsburgh|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9007.055979141398,645.0,100.0
+1124,3. All 4 MFGs,CZ_Raleigh|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9007.055979141398,501.0,100.0
+1125,3. All 4 MFGs,CZ_Atlanta|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9007.055979141398,808.0,100.0
+1126,3. All 4 MFGs,CZ_Salt Lake City|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9007.055979141398,628.0,100.0
+1127,3. All 4 MFGs,CZ_Fresno|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9007.055979141398,645.0,100.0
+1128,3. All 4 MFGs,CZ_Seattle|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,12855.561265957636,505.0,100.0
+1129,3. All 4 MFGs,CZ_Pittsburgh|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,12855.561265957636,729.0,100.0
+1130,3. All 4 MFGs,CZ_Raleigh|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,12855.561265957636,862.0,100.0
+1131,3. All 4 MFGs,CZ_Atlanta|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,12855.561265957636,885.0,100.0
+1132,3. All 4 MFGs,CZ_Salt Lake City|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,12855.561265957636,936.0,100.0
+1133,3. All 4 MFGs,CZ_Fresno|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,12855.561265957636,720.0,100.0
+1134,2. Brazil and Vietnam MFG Only,MFG_Ho Chi Minh|RM_0001|SinglePeriod,MFG_Ho Chi Minh|RM_0001|SinglePeriod|production_bom,0.0,514.880646826574,100.0
+1135,2. Brazil and Vietnam MFG Only,MFG_Belo Horizonte|RM_0001|SinglePeriod,MFG_Belo Horizonte|RM_0001|SinglePeriod|production_bom,0.0,7727.119353173426,100.0
+1136,2. Brazil and Vietnam MFG Only,MFG_Ho Chi Minh|RM_0002|SinglePeriod,MFG_Ho Chi Minh|RM_0002|SinglePeriod|production_bom,0.0,13911.0,100.0
+1137,2. Brazil and Vietnam MFG Only,MFG_Ho Chi Minh|Pack_Style_1|SinglePeriod,MFG_Ho Chi Minh|Pack_Style_1|SinglePeriod|production_bom,0.0,514.880646826574,100.0
+1138,2. Brazil and Vietnam MFG Only,MFG_Belo Horizonte|Pack_Style_1|SinglePeriod,MFG_Belo Horizonte|Pack_Style_1|SinglePeriod|production_bom,0.0,7727.119353173426,100.0
+1139,2. Brazil and Vietnam MFG Only,MFG_Ho Chi Minh|Pack_Style_2|SinglePeriod,MFG_Ho Chi Minh|Pack_Style_2|SinglePeriod|production_bom,0.0,18548.0,100.0
+1140,2. Brazil and Vietnam MFG Only,MFG_Ho Chi Minh|Water_1|SinglePeriod,MFG_Ho Chi Minh|Water_1|SinglePeriod|production_bom,0.0,45.457096468563,100.0
+1141,2. Brazil and Vietnam MFG Only,MFG_Belo Horizonte|Water_1|SinglePeriod,MFG_Belo Horizonte|Water_1|SinglePeriod|production_bom,0.0,682.201617066437,100.0
+1142,2. Brazil and Vietnam MFG Only,MFG_Ho Chi Minh|Water_2|SinglePeriod,MFG_Ho Chi Minh|Water_2|SinglePeriod|production_bom,0.0,1310.032887032,100.0
+1143,2. Brazil and Vietnam MFG Only,MFG_Ho Chi Minh|FG_0001|SinglePeriod|production_bom,MFG_Ho Chi Minh|RM_0001|SinglePeriod,0.0,514.880646826574,47.8861458804
+1144,2. Brazil and Vietnam MFG Only,MFG_Ho Chi Minh|FG_0001|SinglePeriod|production_bom,MFG_Ho Chi Minh|Pack_Style_1|SinglePeriod,0.0,514.880646826574,47.8861458804
+1145,2. Brazil and Vietnam MFG Only,MFG_Ho Chi Minh|FG_0001|SinglePeriod|production_bom,MFG_Ho Chi Minh|Water_1|SinglePeriod,0.0,45.457096468563,4.227708239199
+1146,2. Brazil and Vietnam MFG Only,MFG_Belo Horizonte|FG_0001|SinglePeriod|production_bom,MFG_Belo Horizonte|RM_0001|SinglePeriod,0.0,7727.119353173426,47.8861458804
+1147,2. Brazil and Vietnam MFG Only,MFG_Belo Horizonte|FG_0001|SinglePeriod|production_bom,MFG_Belo Horizonte|Pack_Style_1|SinglePeriod,0.0,7727.119353173426,47.8861458804
+1148,2. Brazil and Vietnam MFG Only,MFG_Belo Horizonte|FG_0001|SinglePeriod|production_bom,MFG_Belo Horizonte|Water_1|SinglePeriod,0.0,682.201617066437,4.227708239199
+1149,2. Brazil and Vietnam MFG Only,MFG_Ho Chi Minh|FG_0002|SinglePeriod|production_bom,MFG_Ho Chi Minh|RM_0002|SinglePeriod,0.0,13911.0,41.194546632522
+1150,2. Brazil and Vietnam MFG Only,MFG_Ho Chi Minh|FG_0002|SinglePeriod|production_bom,MFG_Ho Chi Minh|Pack_Style_2|SinglePeriod,0.0,18548.0,54.926062176696
+1151,2. Brazil and Vietnam MFG Only,MFG_Ho Chi Minh|FG_0002|SinglePeriod|production_bom,MFG_Ho Chi Minh|Water_2|SinglePeriod,0.0,1310.032887032,3.879391190783
+1152,2. Brazil and Vietnam MFG Only,MFG_Ho Chi Minh|FG_0001|SinglePeriod,MFG_Ho Chi Minh|FG_0001|SinglePeriod|production_bom,0.0,257.440323413287,100.0
+1153,2. Brazil and Vietnam MFG Only,MFG_Belo Horizonte|FG_0001|SinglePeriod,MFG_Belo Horizonte|FG_0001|SinglePeriod|production_bom,0.0,3863.559676586713,100.0
+1154,2. Brazil and Vietnam MFG Only,MFG_Ho Chi Minh|FG_0002|SinglePeriod,MFG_Ho Chi Minh|FG_0002|SinglePeriod|production_bom,0.0,4637.0,100.0
+1155,2. Brazil and Vietnam MFG Only,MFG_Ho Chi Minh|FG_0001|SinglePeriod|FC_end,MFG_Ho Chi Minh|FG_0001|SinglePeriod,4000.0,257.440323413287,100.0
+1156,2. Brazil and Vietnam MFG Only,MFG_Belo Horizonte|FG_0001|SinglePeriod|FC_end,MFG_Belo Horizonte|FG_0001|SinglePeriod,4000.0,3863.559676586713,100.0
+1157,2. Brazil and Vietnam MFG Only,MFG_Ho Chi Minh|FG_0002|SinglePeriod|FC_end,MFG_Ho Chi Minh|FG_0002|SinglePeriod,5000.0,4637.0,100.0
+1158,2. Brazil and Vietnam MFG Only,Port_Kuala Lumpur|FG_0001|SinglePeriod,MFG_Ho Chi Minh|FG_0001|SinglePeriod|FC_end,5021.567261956746,257.440323413287,100.0
+1159,2. Brazil and Vietnam MFG Only,Port_Recife|FG_0001|SinglePeriod,MFG_Belo Horizonte|FG_0001|SinglePeriod|FC_end,5294.14333375,3863.559676586713,100.0
+1160,2. Brazil and Vietnam MFG Only,Port_Kuala Lumpur|FG_0002|SinglePeriod,MFG_Ho Chi Minh|FG_0002|SinglePeriod|FC_end,6021.567261956746,4637.0,100.0
+1161,2. Brazil and Vietnam MFG Only,Port_Kuala Lumpur|FG_0001|SinglePeriod|FC_end,Port_Kuala Lumpur|FG_0001|SinglePeriod,6124.92850878924,257.440323413287,100.0
+1162,2. Brazil and Vietnam MFG Only,Port_Recife|FG_0001|SinglePeriod|FC_end,Port_Recife|FG_0001|SinglePeriod,7083.226035507661,3863.559676586713,100.0
+1163,2. Brazil and Vietnam MFG Only,Port_Kuala Lumpur|FG_0002|SinglePeriod|FC_end,Port_Kuala Lumpur|FG_0002|SinglePeriod,7124.92850878924,4637.0,100.0
+1164,2. Brazil and Vietnam MFG Only,Port_Long Beach|FG_0001|SinglePeriod,Port_Kuala Lumpur|FG_0001|SinglePeriod|FC_end,6124.92850878924,257.440323413287,100.0
+1165,2. Brazil and Vietnam MFG Only,Port_Boston|FG_0001|SinglePeriod,Port_Recife|FG_0001|SinglePeriod|FC_end,7083.226035507661,3863.559676586713,100.0
+1166,2. Brazil and Vietnam MFG Only,Port_Long Beach|FG_0002|SinglePeriod,Port_Kuala Lumpur|FG_0002|SinglePeriod|FC_end,7124.92850878924,4637.0,100.0
+1167,2. Brazil and Vietnam MFG Only,Port_Long Beach|FG_0001|SinglePeriod|FC_end,Port_Long Beach|FG_0001|SinglePeriod,6639.572257946721,257.440323413287,100.0
+1168,2. Brazil and Vietnam MFG Only,Port_Boston|FG_0001|SinglePeriod|FC_end,Port_Boston|FG_0001|SinglePeriod,7326.808047143246,3863.559676586713,100.0
+1169,2. Brazil and Vietnam MFG Only,Port_Long Beach|FG_0002|SinglePeriod|FC_end,Port_Long Beach|FG_0002|SinglePeriod,7639.572257946721,4637.0,100.0
+1170,2. Brazil and Vietnam MFG Only,DC_Detroit|FG_0001|SinglePeriod,Port_Long Beach|FG_0001|SinglePeriod|FC_end,6639.572257946721,257.440323413287,6.247035268461
+1171,2. Brazil and Vietnam MFG Only,DC_Detroit|FG_0001|SinglePeriod,Port_Boston|FG_0001|SinglePeriod|FC_end,7326.808047143246,3863.559676586713,93.752964731539
+1172,2. Brazil and Vietnam MFG Only,DC_Detroit|FG_0002|SinglePeriod,Port_Long Beach|FG_0002|SinglePeriod|FC_end,7639.572257946721,4637.0,100.0
+1173,2. Brazil and Vietnam MFG Only,DC_Detroit|FG_0001|SinglePeriod|FC_end,DC_Detroit|FG_0001|SinglePeriod,9008.035914017975,4121.0,100.0
+1174,2. Brazil and Vietnam MFG Only,DC_Detroit|FG_0002|SinglePeriod|FC_end,DC_Detroit|FG_0002|SinglePeriod,11424.373315373337,4637.0,100.0
+1175,2. Brazil and Vietnam MFG Only,CZ_Seattle|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9008.035914017975,894.0,100.0
+1176,2. Brazil and Vietnam MFG Only,CZ_Pittsburgh|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9008.035914017975,645.0,100.0
+1177,2. Brazil and Vietnam MFG Only,CZ_Raleigh|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9008.035914017975,501.0,100.0
+1178,2. Brazil and Vietnam MFG Only,CZ_Atlanta|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9008.035914017975,808.0,100.0
+1179,2. Brazil and Vietnam MFG Only,CZ_Salt Lake City|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9008.035914017975,628.0,100.0
+1180,2. Brazil and Vietnam MFG Only,CZ_Fresno|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,9008.035914017975,645.0,100.0
+1181,2. Brazil and Vietnam MFG Only,CZ_Seattle|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,11424.373315373337,505.0,100.0
+1182,2. Brazil and Vietnam MFG Only,CZ_Pittsburgh|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,11424.373315373337,729.0,100.0
+1183,2. Brazil and Vietnam MFG Only,CZ_Raleigh|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,11424.373315373337,862.0,100.0
+1184,2. Brazil and Vietnam MFG Only,CZ_Atlanta|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,11424.373315373337,885.0,100.0
+1185,2. Brazil and Vietnam MFG Only,CZ_Salt Lake City|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,11424.373315373337,936.0,100.0
+1186,2. Brazil and Vietnam MFG Only,CZ_Fresno|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,11424.373315373337,720.0,100.0
+1187,4. Max Emissions Cap,MFG_Shanghai|RM_0001|SinglePeriod,MFG_Shanghai|RM_0001|SinglePeriod|production_bom,0.0,514.880646826574,100.0
+1188,4. Max Emissions Cap,MFG_Belo Horizonte|RM_0001|SinglePeriod,MFG_Belo Horizonte|RM_0001|SinglePeriod|production_bom,0.0,7727.119353173426,100.0
+1189,4. Max Emissions Cap,MFG_Shanghai|RM_0002|SinglePeriod,MFG_Shanghai|RM_0002|SinglePeriod|production_bom,0.0,13911.0,100.0
+1190,4. Max Emissions Cap,MFG_Shanghai|Pack_Style_1|SinglePeriod,MFG_Shanghai|Pack_Style_1|SinglePeriod|production_bom,0.0,514.880646826574,100.0
+1191,4. Max Emissions Cap,MFG_Belo Horizonte|Pack_Style_1|SinglePeriod,MFG_Belo Horizonte|Pack_Style_1|SinglePeriod|production_bom,0.0,7727.119353173426,100.0
+1192,4. Max Emissions Cap,MFG_Shanghai|Pack_Style_2|SinglePeriod,MFG_Shanghai|Pack_Style_2|SinglePeriod|production_bom,0.0,18548.0,100.0
+1193,4. Max Emissions Cap,MFG_Shanghai|Water_1|SinglePeriod,MFG_Shanghai|Water_1|SinglePeriod|production_bom,0.0,45.457096468563,100.0
+1194,4. Max Emissions Cap,MFG_Belo Horizonte|Water_1|SinglePeriod,MFG_Belo Horizonte|Water_1|SinglePeriod|production_bom,0.0,682.201617066437,100.0
+1195,4. Max Emissions Cap,MFG_Shanghai|Water_2|SinglePeriod,MFG_Shanghai|Water_2|SinglePeriod|production_bom,0.0,1310.032887032,100.0
+1196,4. Max Emissions Cap,UnassignableEnd|NA|NA,Unassignable|NA|NA,0.0,1.0,100.0
+1197,4. Max Emissions Cap,MFG_Shanghai|FG_0001|SinglePeriod|production_bom,MFG_Shanghai|RM_0001|SinglePeriod,0.0,514.880646826574,47.8861458804
+1198,4. Max Emissions Cap,MFG_Shanghai|FG_0001|SinglePeriod|production_bom,MFG_Shanghai|Pack_Style_1|SinglePeriod,0.0,514.880646826574,47.8861458804
+1199,4. Max Emissions Cap,MFG_Shanghai|FG_0001|SinglePeriod|production_bom,MFG_Shanghai|Water_1|SinglePeriod,0.0,45.457096468563,4.227708239199
+1200,4. Max Emissions Cap,MFG_Belo Horizonte|FG_0001|SinglePeriod|production_bom,MFG_Belo Horizonte|RM_0001|SinglePeriod,0.0,7727.119353173426,47.8861458804
+1201,4. Max Emissions Cap,MFG_Belo Horizonte|FG_0001|SinglePeriod|production_bom,MFG_Belo Horizonte|Pack_Style_1|SinglePeriod,0.0,7727.119353173426,47.8861458804
+1202,4. Max Emissions Cap,MFG_Belo Horizonte|FG_0001|SinglePeriod|production_bom,MFG_Belo Horizonte|Water_1|SinglePeriod,0.0,682.201617066437,4.227708239199
+1203,4. Max Emissions Cap,MFG_Shanghai|FG_0002|SinglePeriod|production_bom,MFG_Shanghai|RM_0002|SinglePeriod,0.0,13911.0,41.194546632522
+1204,4. Max Emissions Cap,MFG_Shanghai|FG_0002|SinglePeriod|production_bom,MFG_Shanghai|Pack_Style_2|SinglePeriod,0.0,18548.0,54.926062176696
+1205,4. Max Emissions Cap,MFG_Shanghai|FG_0002|SinglePeriod|production_bom,MFG_Shanghai|Water_2|SinglePeriod,0.0,1310.032887032,3.879391190783
+1206,4. Max Emissions Cap,MFG_Shanghai|FG_0001|SinglePeriod,MFG_Shanghai|FG_0001|SinglePeriod|production_bom,0.0,257.440323413287,100.0
+1207,4. Max Emissions Cap,MFG_Belo Horizonte|FG_0001|SinglePeriod,MFG_Belo Horizonte|FG_0001|SinglePeriod|production_bom,0.0,3863.559676586713,100.0
+1208,4. Max Emissions Cap,MFG_Shanghai|FG_0002|SinglePeriod,MFG_Shanghai|FG_0002|SinglePeriod|production_bom,0.0,4637.0,100.0
+1209,4. Max Emissions Cap,MFG_Shanghai|FG_0001|SinglePeriod|FC_end,MFG_Shanghai|FG_0001|SinglePeriod,3400.0,257.440323413287,100.0
+1210,4. Max Emissions Cap,MFG_Belo Horizonte|FG_0001|SinglePeriod|FC_end,MFG_Belo Horizonte|FG_0001|SinglePeriod,4000.0,3863.559676586713,100.0
+1211,4. Max Emissions Cap,MFG_Shanghai|FG_0002|SinglePeriod|FC_end,MFG_Shanghai|FG_0002|SinglePeriod,4250.0,4637.0,100.0
+1212,4. Max Emissions Cap,Port_Hong Kong|FG_0001|SinglePeriod,MFG_Shanghai|FG_0001|SinglePeriod|FC_end,4319.410535761072,257.440323413287,100.0
+1213,4. Max Emissions Cap,Port_Recife|FG_0001|SinglePeriod,MFG_Belo Horizonte|FG_0001|SinglePeriod|FC_end,5294.14333375,3863.559676586713,100.0
+1214,4. Max Emissions Cap,Port_Hong Kong|FG_0002|SinglePeriod,MFG_Shanghai|FG_0002|SinglePeriod|FC_end,5169.410535761072,4637.0,100.0
+1215,4. Max Emissions Cap,Port_Hong Kong|FG_0001|SinglePeriod|FC_end,Port_Hong Kong|FG_0001|SinglePeriod,5659.468149201348,257.440323413287,100.0
+1216,4. Max Emissions Cap,Port_Recife|FG_0001|SinglePeriod|FC_end,Port_Recife|FG_0001|SinglePeriod,7083.226035507661,3863.559676586713,100.0
+1217,4. Max Emissions Cap,Port_Hong Kong|FG_0002|SinglePeriod|FC_end,Port_Hong Kong|FG_0002|SinglePeriod,6509.468149201348,4637.0,100.0
+1218,4. Max Emissions Cap,Port_Long Beach|FG_0001|SinglePeriod,Port_Hong Kong|FG_0001|SinglePeriod|FC_end,5659.468149201348,257.440323413287,100.0
+1219,4. Max Emissions Cap,Port_Boston|FG_0001|SinglePeriod,Port_Recife|FG_0001|SinglePeriod|FC_end,7083.226035507661,3863.559676586713,100.0
+1220,4. Max Emissions Cap,Port_Long Beach|FG_0002|SinglePeriod,Port_Hong Kong|FG_0002|SinglePeriod|FC_end,6509.468149201348,4637.0,100.0
+1221,4. Max Emissions Cap,Port_Long Beach|FG_0001|SinglePeriod|FC_end,Port_Long Beach|FG_0001|SinglePeriod,6083.866940356158,257.440323413287,100.0
+1222,4. Max Emissions Cap,Port_Boston|FG_0001|SinglePeriod|FC_end,Port_Boston|FG_0001|SinglePeriod,7326.808047143246,3863.559676586713,100.0
+1223,4. Max Emissions Cap,Port_Long Beach|FG_0002|SinglePeriod|FC_end,Port_Long Beach|FG_0002|SinglePeriod,6933.866940356158,4637.0,100.0
+1224,4. Max Emissions Cap,DC_Detroit|FG_0001|SinglePeriod,Port_Long Beach|FG_0001|SinglePeriod|FC_end,6083.866940356158,257.440323413287,6.247035268461
+1225,4. Max Emissions Cap,DC_Detroit|FG_0001|SinglePeriod,Port_Boston|FG_0001|SinglePeriod|FC_end,7326.808047143246,3863.559676586713,93.752964731539
+1226,4. Max Emissions Cap,DC_Detroit|FG_0002|SinglePeriod,Port_Long Beach|FG_0002|SinglePeriod|FC_end,6933.866940356158,4637.0,100.0
+1227,4. Max Emissions Cap,DC_Detroit|FG_0001|SinglePeriod|FC_end,DC_Detroit|FG_0001|SinglePeriod,8973.320806839378,4121.0,100.0
+1228,4. Max Emissions Cap,DC_Detroit|FG_0002|SinglePeriod|FC_end,DC_Detroit|FG_0002|SinglePeriod,10718.667997782775,4637.0,100.0
+1229,4. Max Emissions Cap,CZ_Seattle|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,8973.320806839378,894.0,100.0
+1230,4. Max Emissions Cap,CZ_Pittsburgh|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,8973.320806839378,645.0,100.0
+1231,4. Max Emissions Cap,CZ_Raleigh|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,8973.320806839378,501.0,100.0
+1232,4. Max Emissions Cap,CZ_Atlanta|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,8973.320806839378,808.0,100.0
+1233,4. Max Emissions Cap,CZ_Salt Lake City|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,8973.320806839378,628.0,100.0
+1234,4. Max Emissions Cap,CZ_Fresno|FG_0001|SinglePeriod,DC_Detroit|FG_0001|SinglePeriod|FC_end,8973.320806839378,645.0,100.0
+1235,4. Max Emissions Cap,CZ_Seattle|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,10718.667997782775,505.0,100.0
+1236,4. Max Emissions Cap,CZ_Pittsburgh|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,10718.667997782775,729.0,100.0
+1237,4. Max Emissions Cap,CZ_Raleigh|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,10718.667997782775,862.0,100.0
+1238,4. Max Emissions Cap,CZ_Atlanta|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,10718.667997782775,885.0,100.0
+1239,4. Max Emissions Cap,CZ_Salt Lake City|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,10718.667997782775,936.0,100.0
+1240,4. Max Emissions Cap,CZ_Fresno|FG_0002|SinglePeriod,DC_Detroit|FG_0002|SinglePeriod|FC_end,10718.667997782775,720.0,100.0

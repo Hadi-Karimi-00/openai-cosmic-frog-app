@@ -1,2 +1,0 @@
-id,maxnumberofnewfacilities,minimizetotalfacilities,excludefacilities,excludesuppliers,onlyusefacilitiesascandidatelocations,customermaxsourcingdistance,greenfieldfacilitythroughputcapacity,greenfieldfacilityfixedcost,customerfulfillmentcost,procurementcost,runlocationrefinementheuristic,customerclusterradius,autodetectclusterradius,clusteringapproach
-1,"",False,True,True,False,"","",0,1,0.75,True,"",True,utm

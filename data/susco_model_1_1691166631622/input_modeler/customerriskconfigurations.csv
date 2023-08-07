@@ -1,3 +1,0 @@
-id,riskprofilename,geographicriskweight,userdefinedriskweight,concentrationriskweight,concentrationriskband,sourcecountriskweight,sourcecountriskband,notes
-1,Risk Profile Template Optimization,0.3,0.2,0.3,Customer Concentration Band Template Med 10%_8Risk,0.2,Source Count Band Template,""
-2,Risk Profile Template Simulation,0.3,0.2,0.3,Customer Concentration Band Template Tight 5%_8Risk,0.2,Source Count Band Template,""

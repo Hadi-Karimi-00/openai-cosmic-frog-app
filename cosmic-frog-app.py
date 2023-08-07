@@ -51,12 +51,18 @@ main_db_nm = 'SuSCO_Model_main'
 api.database_export(main_db_nm,group='tables')
 
 """ 2- make changes to data tables"""
-# copied SuSCO_Model_main directory into susco_model_1
+# copied SuSCO_Model_main directory into susco_model_1 (folders: input_modeler, output, special_tables)
 
 """ 3- upload modified data"""
 fromdir = local_directory + "\\" + DB_Name
 todir = ATLAS_directory_path_selection
+
 dl.copy_files_in_folder(api, fromdir, todir, user_workspace_selection)
+
+""" 4- executing the model run script in Atlas (SDK>>05_Solver and Model Runner>>run_model.py)"""
+# At the moment giving CVS files path results in error (maybe becuase .frog database is not updated?)
+# Giving database name results in successful run but I cannot find the scenrio output folders. Maybe the .frog database is updated? Yes the .frog database is updated
+# but no csv folder created.
 
 end = dt.datetime.now()
 print('End: %s' %end)

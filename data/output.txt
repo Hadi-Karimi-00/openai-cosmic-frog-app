@@ -1,0 +1,465 @@
+2023-08-07 16:45:40 - Reading table 'ModelRunOptions'
+2023-08-07 16:45:40 - Running model SuSCO_Model_main
+2023-08-07 16:45:40 - Welcome to NEO
+2023-08-07 16:45:40 - NEO Version: 2.6.11
+2023-08-07 16:45:40 - DART Version: 2.6.7
+2023-08-07 16:45:40 - Reading dataset
+2023-08-07 16:45:40 - Reading table 'UnitsOfMeasure'
+2023-08-07 16:45:40 - Reading table 'StepCosts'
+2023-08-07 16:45:40 - Reading table 'Periods'
+2023-08-07 16:45:40 - Reading table 'Products'
+2023-08-07 16:45:40 - Reading table 'ProductsMultiTimePeriod'
+2023-08-07 16:45:40 - Reading table 'Suppliers'
+2023-08-07 16:45:40 - Reading table 'SuppliersMultiTimePeriod'
+2023-08-07 16:45:40 - Reading table 'Customers'
+2023-08-07 16:45:40 - Reading table 'CustomersMultiTimePeriod'
+2023-08-07 16:45:40 - Reading table 'Facilities'
+2023-08-07 16:45:40 - Reading table 'FacilitiesMultiTimePeriod'
+2023-08-07 16:45:40 - Reading table 'TransportationModes'
+2023-08-07 16:45:40 - Reading table 'TransportationModesMultiTimePeriod'
+2023-08-07 16:45:40 - Reading table 'TransportationRates'
+2023-08-07 16:45:40 - Reading table 'BillsOfMaterials'
+2023-08-07 16:45:40 - Reading table 'WorkCenters'
+2023-08-07 16:45:40 - Reading table 'WorkCentersMultiTimePeriod'
+2023-08-07 16:45:40 - Reading table 'WorkResources'
+2023-08-07 16:45:40 - Reading table 'WorkResourcesMultiTimePeriod'
+2023-08-07 16:45:40 - Reading table 'Groups'
+2023-08-07 16:45:40 - Reading table 'CustomerDemand'
+2023-08-07 16:45:40 - Reading table 'Processes'
+2023-08-07 16:45:40 - Reading table 'ProcessesMultiTimePeriod'
+2023-08-07 16:45:40 - Reading table 'ProductionPolicies'
+2023-08-07 16:45:40 - Reading table 'ProductionPoliciesMultiTimePeriod'
+2023-08-07 16:45:40 - Reading table 'SupplierCapabilities'
+2023-08-07 16:45:40 - Reading table 'SupplierCapabilitiesMultiTimePeriod'
+2023-08-07 16:45:40 - Reading table 'InventoryPolicies'
+2023-08-07 16:45:40 - Reading table 'InventoryPoliciesMultiTimePeriod'
+2023-08-07 16:45:40 - Reading table 'ProcurementPolicies'
+2023-08-07 16:45:40 - Reading table 'ProcurementPoliciesMultiTimePeriod'
+2023-08-07 16:45:40 - Reading table 'ReplenishmentPolicies'
+2023-08-07 16:45:40 - Reading table 'ReplenishmentPoliciesMultiTimePeriod'
+2023-08-07 16:45:40 - Reading table 'WarehousingPolicies'
+2023-08-07 16:45:40 - Reading table 'WarehousingPoliciesMultiTimePeriod'
+2023-08-07 16:45:40 - Reading table 'CustomerFulfillmentPolicies'
+2023-08-07 16:45:40 - Reading table 'CustomerFulfillmentPoliciesMultiTimePeriod'
+2023-08-07 16:45:40 - Reading table 'TransportationPolicies'
+2023-08-07 16:45:40 - Reading table 'TransportationPoliciesMultiTimePeriod'
+2023-08-07 16:45:40 - Reading table 'FlowConstraints'
+2023-08-07 16:45:40 - Reading table 'InventoryConstraints'
+2023-08-07 16:45:40 - Reading table 'ProductionConstraints'
+2023-08-07 16:45:40 - Reading table 'FlowCountConstraints'
+2023-08-07 16:45:40 - Reading table 'InventoryCountConstraints'
+2023-08-07 16:45:40 - Reading table 'ProductionCountConstraints'
+2023-08-07 16:45:40 - Reading table 'FacilityCountConstraints'
+2023-08-07 16:45:40 - Reading table 'WorkCenterCountConstraints'
+2023-08-07 16:45:40 - Reading table 'CustomerTransitConstraints'
+2023-08-07 16:45:40 - Reading table 'UserDefinedVariables'
+2023-08-07 16:45:40 - Reading table 'UserDefinedConstraints'
+2023-08-07 16:45:40 - Reading table 'UserDefinedCosts'
+2023-08-07 16:45:40 - Reading table 'Scenarios'
+2023-08-07 16:45:40 - Reading table 'ScenarioItemAssignments'
+2023-08-07 16:45:40 - Reading table 'ScenarioItems'
+2023-08-07 16:45:40 - Reading table 'Lookups'
+2023-08-07 16:45:40 - Reading table 'SequentialObjectives'
+2023-08-07 16:45:40 - Reading table 'ModelSettings'
+2023-08-07 16:45:40 - STARTED dataset cleanser
+2023-08-07 16:45:40 - START cleansing UnitsOfMeasure
+2023-08-07 16:45:40 - FINISHED cleansing UnitsOfMeasure
+2023-08-07 16:45:40 - START cleansing Products
+2023-08-07 16:45:40 - FINISHED cleansing Products
+2023-08-07 16:45:40 - START cleansing Customers
+2023-08-07 16:45:40 - FINISHED cleansing Customers
+2023-08-07 16:45:40 - START cleansing Facilities
+2023-08-07 16:45:40 - FINISHED cleansing Facilities
+2023-08-07 16:45:40 - START cleansing TransportationModes
+2023-08-07 16:45:40 - FINISHED cleansing TransportationModes
+2023-08-07 16:45:40 - START cleansing BillsOfMaterials
+2023-08-07 16:45:40 - FINISHED cleansing BillsOfMaterials
+2023-08-07 16:45:40 - START cleansing Groups
+2023-08-07 16:45:40 - FINISHED cleansing Groups
+2023-08-07 16:45:40 - START cleansing CustomerDemand
+2023-08-07 16:45:40 - FINISHED cleansing CustomerDemand
+2023-08-07 16:45:40 - START cleansing ProductionPolicies
+2023-08-07 16:45:40 - FINISHED cleansing ProductionPolicies
+2023-08-07 16:45:40 - START cleansing WarehousingPolicies
+2023-08-07 16:45:40 - FINISHED cleansing WarehousingPolicies
+2023-08-07 16:45:40 - START cleansing TransportationPolicies
+2023-08-07 16:45:40 - FINISHED cleansing TransportationPolicies
+2023-08-07 16:45:40 - START cleansing FlowConstraints
+2023-08-07 16:45:40 - FINISHED cleansing FlowConstraints
+2023-08-07 16:45:40 - START cleansing ProductionConstraints
+2023-08-07 16:45:40 - FINISHED cleansing ProductionConstraints
+2023-08-07 16:45:40 - START cleansing UserDefinedVariables
+2023-08-07 16:45:41 - FINISHED cleansing UserDefinedVariables
+2023-08-07 16:45:41 - START cleansing UserDefinedConstraints
+2023-08-07 16:45:41 - FINISHED cleansing UserDefinedConstraints
+2023-08-07 16:45:41 - START cleansing Scenarios
+2023-08-07 16:45:41 - FINISHED cleansing Scenarios
+2023-08-07 16:45:41 - START cleansing ScenarioItemAssignments
+2023-08-07 16:45:41 - FINISHED cleansing ScenarioItemAssignments
+2023-08-07 16:45:41 - START cleansing ScenarioItems
+2023-08-07 16:45:41 - FINISHED cleansing ScenarioItems
+2023-08-07 16:45:41 - Running model SuSCO_Model_main with scenario Baseline
+
+ModelRunOptions: 
+                                   Option                            Value
+                                  WriteLP                            False
+                         LaneCreationRule transportation policy lanes only
+ MaxNumberOfSourcesToConsiderForCustomers                             None
+MaxNumberOfSourcesToConsiderForFacilities                             None
+    ApplyMaxNumberOfSourcesByLocationOnly                            False
+                           SolveTimeLimit                             None
+                           MIPGapRelative                           0.0001
+                     FeasibilityTolerance                         0.000001
+                         AllowCrossPeriod                            False
+                      OpenCloseAtMostOnce                             True
+                         WriteInputSolver                            False
+              RelativeConstraintTolerance                             0.02
+                         NEOSolverVersion                             None
+                       CheckInfeasibility                            False
+                       RunFromInputSolver                            False
+                     RunPreprocessingOnly                            False
+                               SolverType                           gurobi
+                                DebugMode                            False
+                                 WriteMPS                            False
+                                LogToFile                            False
+                          UserDefinedBigM                             None
+                      RunIntegrityChecker                             True
+                RunIntegrityCheckerDetail                            False
+                  InfeasibilityKillswitch                             True
+                              CostToServe                             True
+                               RiskRating                             True
+                   RiskRatingMetadataPath                             None
+                      OptimalityTolerance                         0.000001
+              IntegerFeasibilityTolerance                          0.00001
+                                MIPMethod                             None
+              DutyRateBasedOnProductValue                             True
+2023-08-07 16:45:41 - Running preprocessor
+2023-08-07 16:45:41 - Insert Default Table
+2023-08-07 16:45:41 - Process Master Tables
+2023-08-07 16:45:41 - Start: Process Periods
+2023-08-07 16:45:41 - Start: Process UoM - Periods
+2023-08-07 16:45:41 - Start: Process Products
+2023-08-07 16:45:41 - Start: Process UoM - Products
+2023-08-07 16:45:41 - Start: Process Customers
+2023-08-07 16:45:41 - Start: Process UoM - Customers
+2023-08-07 16:45:41 - Start: Process Facilities
+2023-08-07 16:45:41 - Start: Process UoM - Facilities
+2023-08-07 16:45:41 - Start: Process TransportationModes
+2023-08-07 16:45:41 - Start: Process UoM - TransportationModes
+2023-08-07 16:45:41 - Start: Process BillsOfMaterials
+2023-08-07 16:45:41 - Start: Process UoM - BillsOfMaterials
+2023-08-07 16:45:41 - Validate Groups
+2023-08-07 16:45:41 - Create Class Objects
+2023-08-07 16:45:41 - Process Remaining Tables
+2023-08-07 16:45:41 - Start: Process CustomerDemand
+2023-08-07 16:45:41 - Start: Process UoM - CustomerDemand
+2023-08-07 16:45:41 - Start: Process ProductionPolicies
+2023-08-07 16:45:41 - Start: Process UoM - ProductionPolicies
+2023-08-07 16:45:41 - Update Products based on Demand and Inventory
+2023-08-07 16:45:41 - Merge Processes with Production Policies and WorkCenters
+2023-08-07 16:45:41 - Start: Process WarehousingPolicies
+2023-08-07 16:45:41 - Start: Process UoM - WarehousingPolicies
+2023-08-07 16:45:41 - Start: Process TransportationPolicies
+2023-08-07 16:45:42 - Start: Process UoM - TransportationPolicies
+2023-08-07 16:45:42 - calculating distance
+2023-08-07 16:45:42 - Finished calculating distance
+2023-08-07 16:45:42 - filtering out equal source, destination pairs for TransportationPolicies
+2023-08-07 16:45:42 - Start: Process FlowConstraints
+2023-08-07 16:45:42 - Start: Process UoM - FlowConstraints
+2023-08-07 16:45:42 - Start: Process ProductionConstraints
+2023-08-07 16:45:42 - Start: Process UoM - ProductionConstraints
+2023-08-07 16:45:42 - Start: Process UserDefinedVariables
+2023-08-07 16:45:42 - Start: Process UoM - UserDefinedVariables
+2023-08-07 16:45:42 - Validate UserDefined Tables
+2023-08-07 16:45:42 - Process Arcs
+2023-08-07 16:45:42 - Convert Index to Range
+2023-08-07 16:45:42 - Finished running preprocessor
+2023-08-07 16:45:43 - Reading dataset
+2023-08-07 16:45:43 - Reading dataset
+2023-08-07 16:45:43 - Reading table 'UtilizationRiskConfigurations'
+2023-08-07 16:45:43 - Reading table 'CustomerRiskConfigurations'
+2023-08-07 16:45:43 - Reading table 'FacilityRiskConfigurations'
+2023-08-07 16:45:43 - Reading table 'GeographicRiskConfigurations'
+2023-08-07 16:45:43 - Reading table 'NetworkRiskConfigurations'
+2023-08-07 16:45:43 - Reading table 'RiskRatingConfigurations'
+2023-08-07 16:45:43 - Reading table 'RiskSummaryConfigurations'
+2023-08-07 16:45:43 - Reading table 'SupplierRiskConfigurations'
+2023-08-07 16:45:43 - Reading table 'RiskBandDefinitions'
+2023-08-07 16:45:43 - Reading table 'ModelSettings'
+2023-08-07 16:45:43 - STARTED dataset cleanser
+2023-08-07 16:45:43 - START cleansing UtilizationRiskConfigurations
+2023-08-07 16:45:43 - FINISHED cleansing UtilizationRiskConfigurations
+2023-08-07 16:45:43 - START cleansing CustomerRiskConfigurations
+2023-08-07 16:45:43 - FINISHED cleansing CustomerRiskConfigurations
+2023-08-07 16:45:43 - START cleansing FacilityRiskConfigurations
+2023-08-07 16:45:43 - FINISHED cleansing FacilityRiskConfigurations
+2023-08-07 16:45:43 - START cleansing GeographicRiskConfigurations
+2023-08-07 16:45:43 - FINISHED cleansing GeographicRiskConfigurations
+2023-08-07 16:45:43 - START cleansing NetworkRiskConfigurations
+2023-08-07 16:45:43 - FINISHED cleansing NetworkRiskConfigurations
+2023-08-07 16:45:43 - START cleansing RiskRatingConfigurations
+2023-08-07 16:45:43 - FINISHED cleansing RiskRatingConfigurations
+2023-08-07 16:45:43 - START cleansing RiskSummaryConfigurations
+2023-08-07 16:45:43 - FINISHED cleansing RiskSummaryConfigurations
+2023-08-07 16:45:43 - START cleansing SupplierRiskConfigurations
+2023-08-07 16:45:43 - FINISHED cleansing SupplierRiskConfigurations
+2023-08-07 16:45:43 - START cleansing RiskBandDefinitions
+2023-08-07 16:45:43 - FINISHED cleansing RiskBandDefinitions
+2023-08-07 16:45:43 - START cleansing ModelSettings
+2023-08-07 16:45:43 - FINISHED cleansing ModelSettings
+2023-08-07 16:45:43 - Running DART for risk rating: OptiRisk
+2023-08-07 16:45:43 - Setting up RiskRatingEngine
+2023-08-07 16:45:44 - RiskRatingEngine setup complete
+2023-08-07 16:45:44 - Preprocessing data started
+2023-08-07 16:45:44 - Preprocessing external data started
+2023-08-07 16:45:44 - Preprocessing external data finished
+2023-08-07 16:45:44 - Preparing shared data started
+Warning, no Country code and Lat/Long is (0,0), which is treated as null.  No Geographic Risk will be calculated for these locations
+     FacilityName Country  Latitude  Longitude
+10  mfg_overflow               0.0        0.0
+Warning, no Country code or Lat/Long.  No Geographic Risk will be calculated for these locations
+     FacilityName Country  Latitude  Longitude
+10  mfg_overflow     NaN       NaN        NaN
+2023-08-07 16:45:44 - Creating geo risk metrics started
+2023-08-07 16:45:44 - Economic, Epidemic & Political Risk Lookup started
+2023-08-07 16:45:44 - Economic, Epidemic & Political Risk Lookup finished
+2023-08-07 16:45:44 - Calculating Political Risk started
+2023-08-07 16:45:44 - Calculating Political Risk finished
+2023-08-07 16:45:44 - Natural Disaster Risk Raster Lookup started
+2023-08-07 16:45:44 - Natural Disaster Risk Raster Lookup finished
+2023-08-07 16:45:44 - Retrieving Closest Nuclear/Biolab Location started
+2023-08-07 16:45:44 - Retrieving Closest Nuclear/Biolab Location finished
+2023-08-07 16:45:44 - Calculating Nuclear/Biolab/Disaster Risk started
+2023-08-07 16:45:44 - Calculating Nuclear/Biolab/Disaster Risk finished
+2023-08-07 16:45:44 - Calculating Risk Score started
+2023-08-07 16:45:44 - Calculating Risk Score finished
+2023-08-07 16:45:44 - Creating geo risk metrics finished
+2023-08-07 16:45:44 - Calculating total served demand started
+2023-08-07 16:45:44 - Calculating total served demand finished
+2023-08-07 16:45:44 - Preparing shared data finished
+2023-08-07 16:45:44 - Preprocessing model data started
+2023-08-07 16:45:44 - Preprocessing model data finished
+2023-08-07 16:45:44 - Preprocessing data finished
+2023-08-07 16:45:44 - Preparing calculations started
+2023-08-07 16:45:44 - Running single table calculations
+2023-08-07 16:45:44 - Customer Risk Calculation started
+2023-08-07 16:45:44 - Customer Risk Calculation finished
+2023-08-07 16:45:44 - Supplier Risk Calculation started
+2023-08-07 16:45:44 - Supplier Risk Calculation finished
+2023-08-07 16:45:44 - Facility Risk Calculation started
+2023-08-07 16:45:44 - Facility Risk Calculation finished
+2023-08-07 16:45:44 - Running multi table calculations
+2023-08-07 16:45:44 - Prepping and returning outputs
+2023-08-07 16:45:44 - Running Integrity Checker
+2023-08-07 16:45:44 - START OF Input Integrity Checker
+2023-08-07 16:45:44 - END OF Input Integrity Checker
+2023-08-07 16:45:44 - Populating Solver Data
+2023-08-07 16:45:45 - Create Data & Keys
+2023-08-07 16:45:45 - Create BigM dictionaries
+2023-08-07 16:45:45 - Create model instance
+Set parameter OutputFlag to value 1
+2023-08-07 16:45:45 - Initialize functional classes
+2023-08-07 16:45:45 - Building MIP
+2023-08-07 16:45:45 - Adding decision variables
+2023-08-07 16:45:45 - Adding flow variables
+2023-08-07 16:45:45 - Adding prod variables
+2023-08-07 16:45:45 - Adding site_select variables
+2023-08-07 16:45:45 - Adding production_bom variables
+2023-08-07 16:45:45 - Adding production_bom_process variables
+2023-08-07 16:45:45 - Adding profit variables
+2023-08-07 16:45:45 - Adding revenue variables
+2023-08-07 16:45:45 - Adding total_inv_cost variables
+2023-08-07 16:45:45 - Adding total_inv_storage_cost variables
+2023-08-07 16:45:45 - Adding total_inv_prebuild_holding_cost variables
+2023-08-07 16:45:45 - Adding total_inv_turnestimate_holding_cost variables
+2023-08-07 16:45:45 - Adding total_inv_intransit_holding_cost variables
+2023-08-07 16:45:45 - Adding total_transp_cost variables
+2023-08-07 16:45:45 - Adding total_shipment_cost variables
+2023-08-07 16:45:45 - Adding total_prod_cost variables
+2023-08-07 16:45:45 - Adding total_inbound_cost variables
+2023-08-07 16:45:45 - Adding total_outbound_cost variables
+2023-08-07 16:45:45 - Adding total_fixed_cost variables
+2023-08-07 16:45:45 - Adding total_opening_cost variables
+2023-08-07 16:45:45 - Adding total_closing_cost variables
+2023-08-07 16:45:45 - Adding total_cost variables
+2023-08-07 16:45:45 - Adding total_process_cost variables
+2023-08-07 16:45:45 - Adding total_sourcing_cost variables
+2023-08-07 16:45:45 - Adding total_duty_cost variables
+2023-08-07 16:45:45 - Adding total_stock_transfer_costs variables
+2023-08-07 16:45:45 - Adding total_fulfillment_costs variables
+2023-08-07 16:45:45 - Adding total_procurement_costs variables
+2023-08-07 16:45:45 - Adding total_user_defined_con_cost variables
+2023-08-07 16:45:45 - Adding total_geographic_risk variables
+2023-08-07 16:45:45 - Adding total_weighted_flow_distance variables
+2023-08-07 16:45:45 - Adding total_weighted_flow_time variables
+2023-08-07 16:45:45 - Adding exp_variables variables
+2023-08-07 16:45:45 - Adding user_defined_variable variables
+2023-08-07 16:45:45 - Adding shipments variables
+2023-08-07 16:45:45 - Adding dictionaries for quick reference
+2023-08-07 16:45:45 - Adding constraints
+2023-08-07 16:45:45 - Calculating BigM values
+2023-08-07 16:45:45 - Adding constraints
+2023-08-07 16:45:45 - Adding objective variables
+2023-08-07 16:45:45 - Solving MIP
+Gurobi Optimizer version 10.0.2 build v10.0.2rc0 (linux64)
+
+CPU model: AMD EPYC 7452 32-Core Processor, instruction set [SSE2|AVX|AVX2]
+Thread count: 24 physical cores, 48 logical processors, using up to 24 threads
+
+WLS license - registered to mike.lloyd@optilogic.com
+Optimize a model with 209 rows, 249 columns and 723 nonzeros
+Model fingerprint: 0x62719e7d
+Variable types: 238 continuous, 11 integer (11 binary)
+Coefficient statistics:
+  Matrix range     [2e-01, 5e+06]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 2e+04]
+Presolve removed 209 rows and 249 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 1 (of 48 available processors)
+
+Solution count 1: -1.20222e+08 
+No other solutions better than -1.20222e+08
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective -1.202216778749e+08, best bound -1.202216778749e+08, gap 0.0000%
+
+User-callback calls 286, time in user-callback 0.01 sec
+[Runtime [s], Best Objective, Objective Bound, Gap]: [0.014, -120221677.87, -120221677.87, 0.0]
+SOLVE TIME: 0.00023346741994222006 min
+2023-08-07 16:45:45 - Retrieving solution
+Model status is OPTIMAL.
+The model was solved to optimality. Saving best found solution.
+infeasibility is False
+2023-08-07 16:45:45 - END OF SOLVING MODEL
+The objective value is -120221677.87494276
+Solve time is: 0.00023346741994222006 minutes
+2023-08-07 16:45:45 - Processing optimization outputs
+2023-08-07 16:45:45 - Adding output data to dictionary of dataframes
+2023-08-07 16:45:45 - Running DART
+2023-08-07 16:45:46 - Reading dataset
+2023-08-07 16:45:46 - Running DART for risk rating: OptiRisk
+2023-08-07 16:45:46 - Setting up RiskRatingEngine
+2023-08-07 16:45:47 - RiskRatingEngine setup complete
+2023-08-07 16:45:47 - Preprocessing data started
+2023-08-07 16:45:47 - Preprocessing external data started
+2023-08-07 16:45:47 - Preprocessing external data finished
+2023-08-07 16:45:47 - Preparing shared data started
+Warning, no Country code and Lat/Long is (0,0), which is treated as null.  No Geographic Risk will be calculated for these locations
+    ScenarioName    PeriodName  FacilityName  ... Latitude Longitude Country
+10     Baseline  SinglePeriod  MFG_Overflow  ...      0.0       0.0        
+
+[1 rows x 50 columns]
+Warning, no Country code or Lat/Long.  No Geographic Risk will be calculated for these locations
+    ScenarioName    PeriodName  FacilityName  ... Latitude Longitude Country
+10     Baseline  SinglePeriod  MFG_Overflow  ...      NaN       NaN     NaN
+
+[1 rows x 50 columns]
+Warning, no Country code Column, added a blank column.  Please contact support
+2023-08-07 16:45:47 - Creating geo risk metrics started
+2023-08-07 16:45:47 - Economic, Epidemic & Political Risk Lookup started
+2023-08-07 16:45:47 - Economic, Epidemic & Political Risk Lookup finished
+2023-08-07 16:45:47 - Calculating Political Risk started
+2023-08-07 16:45:47 - Calculating Political Risk finished
+2023-08-07 16:45:47 - Natural Disaster Risk Raster Lookup started
+2023-08-07 16:45:47 - Natural Disaster Risk Raster Lookup finished
+2023-08-07 16:45:47 - Retrieving Closest Nuclear/Biolab Location started
+2023-08-07 16:45:47 - Retrieving Closest Nuclear/Biolab Location finished
+2023-08-07 16:45:47 - Calculating Nuclear/Biolab/Disaster Risk started
+2023-08-07 16:45:47 - Calculating Nuclear/Biolab/Disaster Risk finished
+2023-08-07 16:45:47 - Calculating Risk Score started
+2023-08-07 16:45:47 - Calculating Risk Score finished
+2023-08-07 16:45:47 - Creating geo risk metrics finished
+2023-08-07 16:45:47 - Calculating total served demand started
+2023-08-07 16:45:47 - Calculating total served demand finished
+2023-08-07 16:45:47 - Creating risk count metrics started
+2023-08-07 16:45:47 - Creating risk count metrics finished
+2023-08-07 16:45:47 - Preparing shared data finished
+2023-08-07 16:45:47 - Preprocessing model data started
+2023-08-07 16:45:47 - Preprocessing model data finished
+2023-08-07 16:45:47 - Preprocessing data finished
+2023-08-07 16:45:47 - Preparing calculations started
+2023-08-07 16:45:47 - Preparing calculations finished
+2023-08-07 16:45:47 - Running single table calculations
+2023-08-07 16:45:47 - Customer Risk Calculation started
+2023-08-07 16:45:47 - Customer Risk Calculation finished
+2023-08-07 16:45:47 - Supplier Risk Calculation started
+2023-08-07 16:45:47 - Supplier Risk Calculation finished
+2023-08-07 16:45:47 - Facility Risk Calculation started
+2023-08-07 16:45:47 - Facility Risk Calculation finished
+2023-08-07 16:45:47 - Demand Risk Calculation started
+2023-08-07 16:45:47 - Demand Risk Calculation finished
+2023-08-07 16:45:47 - Flow Risk Calculation started
+2023-08-07 16:45:47 - Flow Risk Calculation finished
+2023-08-07 16:45:47 - Running multi table calculations
+2023-08-07 16:45:47 - Network Risk Calculation started
+2023-08-07 16:45:47 - Network Risk Calculation finished
+2023-08-07 16:45:47 - Summary Risk Calculation started
+2023-08-07 16:45:47 - Calculation finished: Summary
+2023-08-07 16:45:47 - Prepping and returning outputs
+2023-08-07 16:45:47 - Finished running DART
+2023-08-07 16:45:47 - Running Cost To Serve
+2023-08-07 16:45:47 - Start running 'Cost to Serve'
+2023-08-07 16:45:47 - Start running 'Construct Graph from Solution'
+2023-08-07 16:45:47 - Start running 'Construct Arcs for Flows'
+2023-08-07 16:45:47 - Finished running 'Construct Arcs for Flows'
+2023-08-07 16:45:47 - Start running 'Construct Arcs for Productions'
+2023-08-07 16:45:47 - Finished running 'Construct Arcs for Productions'
+2023-08-07 16:45:47 - Start running 'Construct Arcs for Sites'
+2023-08-07 16:45:47 - Finished running 'Construct Arcs for Sites'
+2023-08-07 16:45:47 - Start running 'Construct Arcs for BOMs'
+2023-08-07 16:45:47 - Finished running 'Construct Arcs for BOMs'
+2023-08-07 16:45:47 - Start running 'Construct Arcs for UserDefinedCosts'
+2023-08-07 16:45:47 - Finished running 'Construct Arcs for UserDefinedCosts'
+2023-08-07 16:45:47 - Finished running 'Construct Graph from Solution'
+2023-08-07 16:45:47 - Start running 'Allocation Algorithm'
+2023-08-07 16:45:47 - Finished running 'Allocation Algorithm'
+2023-08-07 16:45:47 - Start running 'Postprocessing'
+2023-08-07 16:45:47 - Finished running 'Postprocessing'
+2023-08-07 16:45:47 - Finished running 'Cost to Serve'
+2023-08-07 16:45:47 - Finished running CostToServe
+2023-08-07 16:45:47 - Writing outputs
+2023-08-07 16:45:47 - Writing dataset
+2023-08-07 16:45:47 - Writing to table 'OptimizationBillsOfMaterialSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationDemandSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationFlowSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationInventorySummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationNetworkSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationProcessSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationProductionSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationShipmentSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationUserDefinedCostSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationUserDefinedVariableSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationValidationErrorReport'
+2023-08-07 16:45:47 - Writing to table 'OptimizationWorkCenterSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationConstraintSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationFacilitySummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationSupplierSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationCustomerSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationWarehousingSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationSupplySummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationSequentialObjectiveSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationCostToServeSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationFacilityCostToServeSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationCostToServeParentInformationReport'
+2023-08-07 16:45:47 - Writing to table 'OptimizationRiskMetricsSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationCustomerRiskMetrics'
+2023-08-07 16:45:47 - Writing to table 'OptimizationFacilityRiskMetrics'
+2023-08-07 16:45:47 - Writing to table 'OptimizationNetworkRiskMetrics'
+2023-08-07 16:45:47 - Writing to table 'OptimizationProductRiskMetrics'
+2023-08-07 16:45:47 - Writing to table 'OptimizationSupplierRiskMetrics'
+2023-08-07 16:45:47 - Writing to table 'OptimizationGeographicRiskMetrics'
+2023-08-07 16:45:47 - Writing to table 'OptimizationGreenfieldCustomerSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationGreenfieldFacilitySummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationGreenfieldSupplierSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationGreenfieldFlowSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationGreenfieldServiceBandSummary'
+2023-08-07 16:45:47 - Writing to table 'OptimizationGreenfieldNetworkSummary'
+2023-08-07 16:45:48 - Finished running model SuSCO_Model_main with scenario Baseline
+MAX MEMORY USED: 0.0436328125 GB
+2023-08-07 16:45:48 - Low memory utilization: Try using a mini resource job size to reduce billed time
+2023-08-07 16:45:48 - Total Runtime: 0:00:09.261902

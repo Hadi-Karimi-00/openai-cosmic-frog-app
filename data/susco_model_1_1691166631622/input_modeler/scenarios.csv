@@ -1,6 +1,0 @@
-id,scenarioname,status,description,tags,technology,notes
-1,Baseline,Include,"","",NEO,template default
-2,Example Exclusion,Include,"","",NEO,template default
-3,Example Increment,Include,"","",NEO,template default
-4,Greenfield Cost Optimized,Include,"","",TRIAD,template default
-5,Greenfield 7 Cost Optimized Facilities,Include,"","",TRIAD,template default

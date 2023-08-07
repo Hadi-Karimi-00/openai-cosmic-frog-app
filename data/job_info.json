@@ -1,0 +1,26 @@
+{
+   "result": "success",
+   "jobKey": "51a2c085-4734-4054-a792-1c8688984459",
+   "submittedDatetime": "2023-08-07T16:45:29.958Z",
+   "startDatetime": "2023-08-07T16:45:30.725Z",
+   "endDatetime": "2023-08-07T16:45:55.607Z",
+   "runTime": "00:00:25",
+   "status": "done",
+   "jobInfo": {
+      "workspace": "Studio",
+      "directoryPath": "/projects/Model Library/Supply Chain Design Kit (SDK)/05_Solver and Model Runner/d159f096-3541-11ee-89e6-e243865217bf",
+      "filename": "main.py",
+      "command": "run",
+      "commandArgs": "--postgres_db_name \"SuSCO_Model_main\" --atlas_app_key op_NGUwOWYyMDktM2M3OS00NjFkLWI0MTgtZTY3NjM2ZTEyOWFh --atlas_username \"hadi.karimi@bain.com\" --scenario_name \"Baseline\" --debug_path \"/projects/My Files/debug_data/SuSCO_Model_main/Baseline\" --workspace \"Studio\"",
+      "errorFile": false,
+      "resultFile": true,
+      "resourceConfig": {
+         "name": "XS",
+         "cpu": "4vCore",
+         "ram": "8Gb",
+         "run_rate": 4
+      },
+      "tags": "SuSCO_Model_main, Baseline",
+      "timeout": -1
+   }
+}
